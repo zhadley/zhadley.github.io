@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 ---
 
 ![](/images/demo/demo-landscape.jpg)
