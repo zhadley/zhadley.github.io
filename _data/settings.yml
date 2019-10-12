@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Zachary Hadley, PhD Candidate
+  site_tagline: The devil's in the details.  
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,8 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'Research'
+      url: '/research/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
