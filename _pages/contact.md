@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Interested in collaborating, have questions, or recommendations? 
+subtitle: Interested in collaborating, have questions, or ideas? 
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
