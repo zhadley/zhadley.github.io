@@ -1,5 +1,6 @@
 ---
 title: About
+
 ---
 
 ![](/images/demo/demo-landscape.jpg)
@@ -10,9 +11,7 @@ I am a PhD Candidate at AGS Paris in the field of International Relations. I hav
 
 I graduated from Harvard with an ALM in IR and worked as a research assistant at the John F. Kennedy School of Government. Prior to Harvard, I received a BA in Political Science from the University of Central Florida and served as a US Army Captain (Ret.) from 2005-2010. I am a member of the American Political Science Association (APSA), International Political Science Association (IPSA), and the Harvard Club of France.
 
-My thesis research, "African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016," explored the key factors behind African state support for United Nations peacekeeping on the continent. It won the 2019 HES Dean's Thesis Prize in International Relations. Find it here: (https://scholar.harvard.edu/files/hadley/files/african_spaghetti_bowl_hadley.pdf)
-
-R replication data is available on (https://dataverse.harvard.edu/dataverse/african_spaghetti).
+My thesis research, "African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016," explored the key factors behind African state support for United Nations peacekeeping on the continent. It won the 2019 HES Dean's Thesis Prize in International Relations. 
 
 ORCID: (https://orcid.org/0000-0001-6525-7884)
 
