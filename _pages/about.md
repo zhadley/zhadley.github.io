@@ -1,4 +1,6 @@
-
+---
+title: about
+---
 
 ![](/images/demo/demo-landscape.jpg)
 
