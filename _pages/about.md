@@ -13,7 +13,7 @@ I graduated from Harvard with an ALM in IR and worked as a research assistant at
 
 My thesis research, "African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016," explored the key factors behind African state support for United Nations peacekeeping on the continent. It won the 2019 HES Dean's Thesis Prize in International Relations. 
 
-ORCID: [https://orcid.org/0000-0001-6525-7884]
+ORCID: https://orcid.org/0000-0001-6525-7884
 
-GitHub: [http://zhadley.github.io]
+GitHub: http://zhadley.github.io
 
