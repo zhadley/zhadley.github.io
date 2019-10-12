@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Zachary Hadley 
-  site_tagline: PhD Candidate in International Relations, AGS Paris. 
-  favicon_image: /images/favicon.png
+  site_title: Zachary Hadley, PhD Candidate AGS Paris
+  site_tagline: Finding clarity in the chaos of international relations. 
+  favicon_image: /images/ags.png
 
 header_settings:
   logo_image: 
