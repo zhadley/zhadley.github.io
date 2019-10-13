@@ -1,6 +1,6 @@
 ---
 title: Fascism in Ethiopia
-date: 2019-13-10
+date: 2019-13-10 15:00:00
 featured_image: "/images/l'ethiopia-squashed.jpg"
 excerpt: Encountering Fascist case studies on Ethiopia at the Sunday market in Vicenza, Italy.
 ---
@@ -9,9 +9,12 @@ excerpt: Encountering Fascist case studies on Ethiopia at the Sunday market in V
 
 ## L'Etiopia
 
-Produced in 1935 by the Confederazione Fascista dei Lavoratori dell'Agricolutura, *L'Etiopia* stated aim is to serve as a starting point to the general knowledge of the Ethiopian Empire. Ninety-three pages dedicated to agriculture, the work provides a curious pamphlet that shows the Fascists desire to exploit Ethiopian's agricultural resources for state gain. 
+> "Chi non può governarsi da se si lasci governare da altri che il possa..." - Giambattista Vico.
 
-> “An honest and disinterested relationship on the things of that territory [Ethiopia] that the resolute will of Fascist Italy, strong of its good laws , day by day, approaches our sensibilities.”
+Thus does *L'Etiopia* begin its exploration of Ethiopia's socio-economic and agricultural sectors with vivid photos, color maps, and first-hand accounts. Produced in October 1935 by the Confederazione Fascista dei Lavoratori dell'Agricolutura, the stated aim of *L'Etiopia* is to serve as
+
+> "...A starting point to the general knowledge of the Ethiopian Empire. An honest and disinterested relationship on the things of that territory that the resolute will of Fascist Italy, strong of its good laws, day by day, approaches to our sensibilities.”
+
 
 
 
