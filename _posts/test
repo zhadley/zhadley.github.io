@@ -1,0 +1,32 @@
+---
+header-includes:
+- \usepackage{geometry}
+   \geometry{left=1.5in, top=1in, right=1in, bottom=1in}
+- \usepackage{fancyhdr}
+- \usepackage{setspace}
+  \doublespacing
+- \usepackage{longtable}
+- \usepackage{booktabs}
+- \usepackage[table]{xcolor}
+- \newcommand{\R}{\mathbb{R}}
+- \usepackage{dcolumn}
+---
+
+\rowcolors{2}{gray!6}{white}
+\begin{table}
+
+\caption{\label{tab:}Dimensions for controlled comparison}
+\centering
+\begin{tabular}[t]{llllll}
+\hiderowcolors
+\toprule
+Case & REC & Polity & UNSCR Mandate & Region & Conflict Type\\
+\midrule
+\showrowcolors
+MONUSCO & SADC* & Autocratic & Stabilization & Central & Civil War\\
+MINUSMA & ECOWAS & Hybrid & Stabilization & West & France\\
+MINUSCA & ECCAS & Autocratic & Stabilization & Central & France\\
+\bottomrule
+\end{tabular}
+\end{table}
+\rowcolors{2}{white}{white}
