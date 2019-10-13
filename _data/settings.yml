@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Latest'
-      url: '/'
+      url: '/_posts/fascism_in_ethiopia'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
