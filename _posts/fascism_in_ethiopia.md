@@ -9,7 +9,7 @@ excerpt: Encountering Fascist case studies on Ethiopia at the Sunday market in V
 
 ## L'Etiopia
 
-Produced in 1935 by the Confederazione Fascista dei Lavoratori dell'Agricolutura, *L'Etiopia* stated aim is to serve as a starting point to the general knowledge of the Ethiopian Empire. Ninety-three pages dedicated to agriculture, the work provides a curious artifact that shows the Italian Fascists resolve to exploit Ethiopian agricultural resources for financial gain. 
+Produced in 1935 by the Confederazione Fascista dei Lavoratori dell'Agricolutura, *L'Etiopia* stated aim is to serve as a starting point to the general knowledge of the Ethiopian Empire. Ninety-three pages dedicated to agriculture, the work provides a curious pamphlet that shows the Fascists desire to exploit Ethiopian's agricultural resources for state gain. 
 
 > “An honest and disinterested relationship on the things of that territory [Ethiopia] that the resolute will of Fascist Italy, strong of its good laws , day by day, approaches our sensibilities.”
 
