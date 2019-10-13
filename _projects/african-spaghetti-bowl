@@ -1,0 +1,66 @@
+\begin{titlepage}
+   \begin{center}
+       \vspace*{.5in}
+
+        African Spaghetti Bowl: \\
+        Assessing State Rationales in African Peacekeeping Operations 1999-2016 \\
+
+  \vspace{2in}
+
+        Zachary David Hadley
+       
+  \vspace{2in}
+
+   A Thesis in the Field of International Relations \\
+   for the Degree of Master of Liberal Arts in Extension Studies\\
+        
+  \vspace{.5in}
+        Harvard University\\
+        November, 2018
+    
+  \end{center}
+\end{titlepage}
+
+\pagebreak
+
+\thispagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\begin{center}
+\cfoot{Copyright 2018 Hadley}
+\end{center}
+\pagebreak
+
+\thispagestyle{empty}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\begin{center}
+Abstract
+
+\end{center}
+The defining challenge for the African continent in the early 21st century rests on the ability of the African Union through its regional economic communities and member states to confront a growing number of complex, transnational threats which risk eroding the steady progress made on peace and security efforts during the past two decades. In this work, I assess the state rationales that inform peacekeeping contributions. I evaluate the dominant theories within the peacekeeping literature while offering something new. I aim to model the underlying data generating process that determines which African states are most likely to contribute peacekeepers and assess the marginal effects of regional integration. To accomplish this, I derive a statistical model using maximum likelihood and utilize Markov chain Monte Carlo (MCMC) simulation to calculate the probability that an African state will support peacekeeping operations. I then assess the results through a disciplined case selection of current United Nations peacekeeping operations within the Democratic Republic of Congo, the Central African Republic, and Mali. The thrust of the argument centers on an assumption that regional integration and regional security are mutually reinforcing. Where I find stronger regional ties, I expect to find ``African solutions to African problems.''
+
+\pagebreak
+
+\thispagestyle{empty}
+\begin{center}
+Acknowledgements
+
+\end{center}
+Lorem ipsum dolor...
+
+\pagebreak
+
+\tableofcontents
+
+\pagebreak
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+# Introduction
+
+## Research problem
+On July 11th, 2000 fifty-three African states signed the Constitutive Act of the African Union during the Thirty-Sixth Ordinary Session of the Assembly of Heads of State and Government in Lomé, Togo. The establishment of the African Union (AU) provided both the legal and institutional framework required to address the growing number of complex challenges on the continent. The adoption of the Constitutive Act represented a fundamental shift in African-led peace and security efforts. Under the auspices of the former Organization of African Unity (OAU), traditional principles of national sovereignty and noninterference were upheld often at the expense of inaction and perceived indifference. For the first time, African states agreed to "the right of the Union to intervene in a member state pursuant to a decision of the Assembly in respect of grave circumstances including war crimes, genocide, and crimes against humanity'' (African Union, 2000, p. 7). The transition from a policy of non-interference to non-indifference represented a fundamental shift for peace and security efforts on the continent.  
+
+During the 20th century, the preponderance of peace operations centered on localized instability within Africa. Since the early aughts, however, conflicts have often metastasized into regional instability - most recently across the Sahel region, Lake Chad Basin, and the Horn of Africa. The complex interaction of socio-economic challenges, rising violent extremism, and the intertwining of organized crime and political corruption defines a new source of instability that requires coordinated, multidimensional responses from the international community (Karlsrud, 2017). The ability of the African Union and its regional institutions to contain current instability in Mali, the Democratic Republic of Congo, and the Central African Republic (CAR) warrants reassessment of complex UN mandates vetted against limited organic capabilities required for sustained operations. There exists a delta between strategic objectives and tactical boots-on-ground realities. It requires troop and police-contributing countries to leverage their comparative advantages while seeking strategic assets from western partners and allies. And it requires targeted international assistance to improve training, equipping, and modernizing African military units for UN deployment. The APSA argues that holistic solutions that bring together political, socio-economic, and military capabilities must be tied to policy harmonization at the UN, AU, and REC levels. Burden-sharing -- vice institutional competition -- must be the guiding principle. 
