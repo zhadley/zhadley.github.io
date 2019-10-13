@@ -15,5 +15,5 @@ My thesis research, "African Spaghetti Bowl: Assessing State Rationales in Afric
 
 ORCID: https://orcid.org/0000-0001-6525-7884
 
-GitHub: http://zhadley.github.io
+
 
