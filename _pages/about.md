@@ -1,19 +1,35 @@
 ---
-title: About
-
+title: About Journal
+subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+description: A stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Zachary Hadley
+## Features
 
-I am a PhD Candidate at AGS Paris in the field of International Relations. I have almost a decade of experience working with the US government, African regional institutions, and member states. My primary interests include African security issues, great powers competition, and extremist political ideologies.
+Journal is packed with powerful features to showcase your work:
 
-I graduated from Harvard with an ALM in IR and worked as a research assistant at the John F. Kennedy School of Government. Prior to Harvard, I received a BA in Political Science from the University of Central Florida and served as a US Army Captain (Ret.) from 2005-2010. I am a member of the American Political Science Association (APSA), International Political Science Association (IPSA), and the Harvard Club of France.
+* Beautiful, minimal design
+* Fixed sidebar images that animate as you browse
+* Single column post layout
+* Responsive – works perfectly on all devices
+* Portfolio/projects post type to show your work
+* Blog with pagination
+* Sleek Ajax navigation and page transitions
+* Unique 'gallery' feature for image grids and carousels
+* Built-in contact form with Formspree integration
+* Full markdown support and code highlighting
+* Social media icons
+* Fast page rendering
+* Built with SEO best practices in mind
+* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
+* Works with GitHub Pages
+* Updated and supported by the developers
 
-My thesis research, "African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016," explored the key factors behind African state support for United Nations peacekeeping on the continent. It won the 2019 HES Dean's Thesis Prize in International Relations. 
+## Get Index
 
-ORCID: https://orcid.org/0000-0001-6525-7884
+Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-
-
+<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>

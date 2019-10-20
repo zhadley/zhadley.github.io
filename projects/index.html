@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Projects
-subtitle: Though this be madness, yet there is method in 't.
-featured_image: /images/demo/demo-portrait.jpg
+subtitle: What I've been working on lately.
+description: Journal is a stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/demo/demo-landscape.jpg
 ---
 
 <section class="intro">
@@ -24,9 +25,9 @@ featured_image: /images/demo/demo-portrait.jpg
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ project.url }}">
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image  }});"></div>
+				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image | relative_url }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">

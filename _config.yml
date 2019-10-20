@@ -1,4 +1,7 @@
-site: Zachary Hadley, PhD Candidate
+site: Journal Jekyll Theme
+
+url: 
+baseurl: 
 
 collections:
   pages:
@@ -52,5 +55,3 @@ plugins:
 paginate: 6
 paginate_path: "/blog/page:num/"
   
-
-theme: jekyll-theme-minimal
