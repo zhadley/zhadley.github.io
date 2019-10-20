@@ -1,6 +1,6 @@
 ---
 title: Fascism in Ethiopia
-date: 2019-13-10 15:00:00
+date: 2019-10-18 11:30:00 +0800
 featured_image: "/images/l'ethiopia-squashed.jpg"
 excerpt: Encountering Fascist case studies on Ethiopia at the Sunday market in Vicenza, Italy.
 ---
