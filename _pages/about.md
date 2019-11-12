@@ -5,7 +5,6 @@ description: About me.
 featured_image: /images/fighter.jpg
 ---
 
-![](/images/fighter.jpg)
 
 
 I am a PhD Student at the American Graduate School of Paris in the field of International Relations. I have almost a decade of experience working with the US government, African regional institutions, and member states. My primary interests include African security issues, great powers competition, and extremist political ideologies.
