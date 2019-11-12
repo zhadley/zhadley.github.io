@@ -1,8 +1,8 @@
 ---
-title: 'Russia-Africa Sochi Summit'
-subtitle: 'Observations from the first African Summit'
+title: 'Fixing a Hole'
+subtitle: 'Contemporary Security Issues in Africa'
 date: 2018-06-30 00:00:00
-featured_image: '/images/nsa_tank.jpg'
+featured_image: '/images/river.jpg'
 ---
 
 ![](/images/nsa_tank.jpg)
