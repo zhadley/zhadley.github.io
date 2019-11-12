@@ -2,7 +2,7 @@
 title: 'Fixing a Hole'
 subtitle: 'Contemporary Security Issues in Africa'
 date: 2019-11-13 00:00:00
-featured_image: '/images/river.jpg'
+featured_image: '/images/nsa_tank.jpg'
 ---
 
 ![](/images/nsa_tank.jpg)
@@ -68,7 +68,7 @@ The interconnectedness of socio-economic factors makes it difficult to parse out
 
 The final chapters highlight geopolitical implications for Africa in terms of growing U.S. and Chinese involvement during the past three decades. The work contends that U.S. interests began in earnest after the creation of U.S. Africa Command (USAFRICOM) in 2007. As a result, the work portrays U.S. engagement as distinctly different from China’s economic approach. 
 
-> "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command. [A] reason was the worrisome prevalence of weak and fragile states … and their repercussions for international security and U.S. national interests." (Location 2820)
+> "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820). 
 
 However, portrayal of U.S. national interests in terms of its military engagements provides an incomplete picture. A more nuanced approach would show that other forms of U.S. foreign aid significantly dwarf its military aid. Moreover, aid levels to Africa have remained relatively unchanged since the 1990s. U.S. foreign military aid accounts for just 5.6 billion dollars during the past decade.
 
@@ -85,13 +85,6 @@ However, growth is not linear --- but has varied according to changing condition
 The de-emphasis of African state actors in bi-lateral engagements portrays African states as passive in nature --- at worst, exploited (Location 3152).  African leaders clearly understand the risks and rewards of engagement in a new Great Power competition. As observed during the Cold War, African states will seek to maximize their benefits while hedging against losses. Shocks to the international order will reverberate across African capitals. 
 
 Notably absent from the preceding canvas is a discussion of the roles of the regional economic communities (REC), the AU Peace and Security Council (AU-PSC), and UN institutions. In 2016, the African Union published it African Peace and Security Architecture Roadmap (APSA). It was the first attempt by the AU to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in Agenda 2063 and Silence the Guns 2020. Likewise, regionally led efforts to address insecurity at the lowest level possible, have led to deployments in ECOWAS, and AMISOM in Somalia. “African Solutions to African Problems” have a precedent.  
-
-## African Solutions to African Problems: A New Approach
-
-A new transnational security model including military and non-military Factors at domestic, regional, and international levels: Governance, Peace, and Security. 
-Dimensions of transnational threats (e.g., economic, social, security, environmental, political, institutional). Anchor to APSA. Identify guidelines. 
-
-[Figure 3. A new model]
 
 ## Fixing a Hole: Final Thoughts
 
