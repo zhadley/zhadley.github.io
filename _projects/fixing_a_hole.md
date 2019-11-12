@@ -10,6 +10,7 @@ featured_image: '/images/nsa_tank.jpg'
 # Fixing A Hole: Contemporary Security Issues In Africa 
 
 Zachary Hadley, PhD Candidate 
+
 AGS Paris 
 
 Working Paper
