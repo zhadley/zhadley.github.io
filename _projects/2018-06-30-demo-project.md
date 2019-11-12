@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Russia-Africa Sochi Summit'
+subtitle: 'Observations from the first African Summit'
 date: 2018-06-30 00:00:00
-featured_image: '/images/river.jpg'
+featured_image: '/images/nsa_tank.jpg'
 ---
 
 ![](/images/nsa_tank.jpg)
