@@ -1,11 +1,11 @@
 ---
 title: About Me
-subtitle: Here I am. - Ulysses, James Joyce
+subtitle: A few words about me.
 description: About me.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/fighter.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/fighter.jpg)
 
 ## About me
 
