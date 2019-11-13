@@ -43,11 +43,12 @@ The concept of ungoverned spaces provides a thread traceable throughout subseque
 
 [Figure 1. Corruption vs. state fragility]
 
-Equally plausible, the confluence of poor governance, a moribund economy, and weak security institutions have more severly undermined political authority than corruption alone. 
+Equally plausible, the absence of basic services, a moribund economy, and a weak security apparatus have more severely undermined the ability of the central government to govern than corruption alone. The focus on corruption belies the multidimensional nature of CAR's instability. 
+
+Mali provides a corollary to overestimating the impact of corruption on the robustness of political institutions. Whereas the Central African Republic’s reputation for corruption and graft constrained foreign aid and investment for many decades, Mali was heralded a success story following the overthrow of the Traoré regime in 1991. As a result, Mali soon received an outpouring of foreign aid and international support. Between 1999 and 2013, Mali received an estimated 1.8 billion USD in U.S. foreign aid alone. Yet by 2013, the Malian government faced a Taureg rebellion, a military coup in Bamako, and the growth of violent extremism across its porous northern borders.
 
 A discussion of growing Russian involvement in the Central African Republic is a missed opportunity to anchor regional challenges to international security. At the 2019 Russia-Africa Summit in Sochi, Central African President Faustin-Archange Toudera requested that the Russian government "intervene" to overturn international arms embargos, demonstrating Russia's growing relevance in Africa's regional security affairs. Strengthening its fragile democratic institutions while respecting state sovereignty will become a defining challenge for United States and its allies in the coming Global Power Competition.
 
-Mali provides a corollary example of overestimating the robustness of weak political institutions. The distinction is worth noting.  Whereas the Central African Republic’s reputation for insecurity has constrained foreign aid and investment, Mali was heralded a democratic success following the overthrow of the Traoré regime in 1991. As a result, the central government soon received an outpouring of international support. Between 1999 and 2013, Mali received an estimated 1.8 billion U.S. dollars in U.S. foreign aid alone. What should we conclude if the Central African Republic had received a commensurate level of economic support from global institutions? 
 
 ## Socio-Economic Challenges in Sub-Saharan Africa
 
