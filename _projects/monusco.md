@@ -29,7 +29,10 @@ The success of the FIB led to the renewal of its authorities through March 2018.
 Efforts to address the conflict’s political dimension in eastern DRC remains key to the success of MONUSCO. The implementation of the Nairobi Declaration works towards that objective. Without a clear exit strategy, moribund international support risks reversing the difficult gains achieved over the past twenty years. The lack of regional commitments to supporting the implementation of the Peace, Security, and Cooperation Framework continues to impede the mission. Deeping economic integration and cooperation within the Great Lakes region necessitates the need for greater security cooperation. Economic, security, and political reforms focused on developing credible domestic institutions is essential. However, concerns of a peaceful transition of power following December 2018 presidential elections remain. Ongoing political violence continues to foster tensions within Kinshasa. The myriad challenges facing the DRC provide a significant roadblock to a responsible MONUSCO drawdown. Despite evidence of increased economic cooperation within the region, the ambiguous UN strategy has allowed for diverging objectives among peacekeeping contributors. Furthermore, competing UN missions in South Sudan, the Central African Republic, and Mali have fueled increased competition for limited UN resources and funding. The lack of progress in DRC has fostered a growing apathy towards the mission and as a result, resources and funding have plateaued. Fears of conflict in the eastern Kivu provinces have returned. 
 
 ## UN-MONUSCO Model Assessment
+
 ```{r, echo=TRUE}
+library("table")
+
 \rowcolors{2}{gray!6}{white}
 \begin{table}
 
