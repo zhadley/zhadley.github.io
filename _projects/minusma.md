@@ -1,5 +1,5 @@
 ---
-title: 'UN-MINUSMA'
+title: 'UN MINUSMA'
 subtitle: 'African Peacekeepers in Mali'
 date: 2019-11-13 00:00:00
 featured_image: '/images/minusma.jpg'
