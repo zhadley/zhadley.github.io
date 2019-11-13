@@ -43,9 +43,9 @@ The concept of ungoverned spaces provides a thread traceable throughout subseque
 
 [Figure 1. Corruption vs. state fragility]
 
-Equally plausible, the confluence of poor governance, under-development, political violence and under-resourced security institutions have directly undermined state authority than corruption alone. 
+Equally plausible, the confluence of poor governance, a moribund economy, and weak security institutions have more severly undermined political authority than corruption alone. 
 
-A discussion of growing Russian involvement in the Central African Republic seems a missed opportunity to anchor regional insecurity to international security.  Both state and non-state external actors will continue to influence political dynamics within Sub-Saharan Africa. Strengthening democratic institutions will become a critical challenge for liberal democracies in the Great Power Competition.
+A discussion of growing Russian involvement in the Central African Republic is a missed opportunity to anchor regional challenges to international security. At the 2019 Russia-Africa Summit in Sochi, Central African President Faustin-Archange Toudera requested that the Russian government "intervene" to overturn international arms embargos, demonstrating Russia's growing relevance in Africa's regional security affairs. Strengthening its fragile democratic institutions while respecting state sovereignty will become a defining challenge for United States and its allies in the coming Global Power Competition.
 
 Mali provides a corollary example of overestimating the robustness of weak political institutions. The distinction is worth noting.  Whereas the Central African Republic’s reputation for insecurity has constrained foreign aid and investment, Mali was heralded a democratic success following the overthrow of the Traoré regime in 1991. As a result, the central government soon received an outpouring of international support. Between 1991 and 2016, Mali received an estimated XXX USD in foreign direct investment and aid. What should we conclude if the Central African Republic had received a commensurate level of economic support from global institutions? 
 
