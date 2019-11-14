@@ -94,7 +94,7 @@ In 2018, Gabon announced its intention to withdrawal from MINUSCA citing “the 
 
 [^6]: United Nations Security Council S/2018/125. (2018). Central African Republic: Report of the Secretary-General (MINUSCA). Retrieved from <https://documents-ddsny.un.org/doc/UNDOC/GEN/N18/028/58/pdf/N1802858.pdf>
 
-[^7]: Seay, L. (2016, June 3). Is Rwanda’s authoritarian state sustainable. The Washington Post.
+[^7]: Seay, L. (2016, June 3). Is Rwanda’s authoritarian state sustainable. Retrieved from <https://www.realclearworld.com/2016/06/05/is_rwandas_authoritarian_state_sustainable_176080.html>
 
 [^8]: Moncrieff, R., & Vircoulon, T. (2017, September 1). The Burundian army’s dangerous over-reliance on peacekeeping. African Arguments.
 
