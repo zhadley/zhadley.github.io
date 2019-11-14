@@ -4,11 +4,11 @@ In order to maintain consistency and clarity throughout the following section,
 common statistical terms are used to describe the research design, maximum likelihood
 estimation (MLE), and Markov chain Monte Carlo (MCMC) simulation. Outcome
 variable (i.e., dependent variable) describes the observed values that are a product of
-the social system. Let Y stand for a $$n × 1$$ column vector of all observed outcomes
+the social system. Let Y stand for a $n × 1$ column vector of all observed outcomes
 from the social system. Explanatory variables are measurements of the social system.
 They are the inputs into the statistical “black box.” Let n be the number of total
 observations and, k, the total number of explanatory variables. X is defined as a
-n × k matrix where each row, $$Xi = (xi1, xi2, ..., xik)$$, represents the k observed values
+n × k matrix where each row, $Xi = (xi1, xi2, ..., xik)$, represents the k observed values
 for the ith observation. Summary statistics describe features of the data and point
 estimates are used to learn about the data through inference. These raw estimates are
 converted into predicted values via simulation to draw substantive conclusions about
