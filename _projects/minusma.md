@@ -8,8 +8,6 @@ featured_image: '/images/minusma.jpg'
 
 ![](/images/minusma.jpg)
 
-# MINUSCA: African Peacekeepers in Mali
-
 Zachary Hadley, PhD Candidate 
 
 AGS Paris 
