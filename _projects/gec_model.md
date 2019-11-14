@@ -1,3 +1,5 @@
+
+# GEC Model
 In order to maintain consistency and clarity throughout the following section,
 common statistical terms are used to describe the research design, maximum likelihood
 estimation (MLE), and Markov chain Monte Carlo (MCMC) simulation. Outcome
@@ -38,9 +40,7 @@ Publicly available indices are used as measurements for the explanatory variable
 within peacekeeping literature. In order to assess the marginal effect of regional
 integration on TCC/PCC contribution, I control for explanatory variables frequently encountered in the literature. Although parsimony is a desirable property
 for any model, the selection of covariates is theory-driven to control for potential
-confounders.
-
-5Experts-on-Mission and UN Military Observers (UNMOG) traditionally serve as observers
+confounders. Experts-on-Mission and UN Military Observers (UNMOG) traditionally serve as observers
 for the UN and serve as the "eyes and ears” of the Security Council. They do not fill roles and
 responsibilities in direct support of their respective host nations.
 6See Appendix B for summary statistics and methodologies.
@@ -69,19 +69,19 @@ powerful security sector that leverages influence over foreign policy outcomes. 
 militarization variable is a non-negative interval measurement. The score is computed
 as the average of three indicators from the Bonn International Center for Conversion,
 Global Militarization Index (BICC-GMI).
+
 National_capability: National material capabilities is considered as a security rationale. It complements the militarization variable by providing a measure
 of military strength relative to other African states. Of note, the Composite Index of
-21
-National Capability (CINC v. 5.0) provides observational data up to the year 2012.
-Multiple imputation (MI) is used to deal with missing observations from 2013-2016.
-The score is calculated as the average for a given state on each of the six indicators,
-which are equally weighted. The result is a percentage for each African state ranked
+
+National Capability (CINC v. 5.0) provides observational data up to the year 2012. Multiple imputation (MI) is used to deal with missing observations from 2013-2016. The score is calculated as the average for a given state on each of the six indicators, which are equally weighted. The result is a percentage for each African state ranked
 relative to all other states on an interval scale.
+
 Governance: This variable is used to measure the political rationale for peacekeeping by assessing the relationship between government performance and foreign
 policy outcomes. The Ibrahim Index for African Governance (IIAG) is calculated as a
 composite score of four dimensions available per country-year from 2000 to 2016. MI
 is used to impute missing observations for missing year, ti = 1999. The result is an
 interval level measurement, which is normalized using min-max scaling.
+
 Political_accountability: This variable will assess the political rationale
 through a measure of political accountability. If peacekeeping is contentious, political
 will is required to martial bureaucratic and public support for an intervention. Yet
@@ -89,25 +89,27 @@ because political will is difficult to measure, I assume that political accounta
 provides a useful proxy. The variable is operationalized as an interval measure using
 the Varieties of Democracy Accountability Index (V-Dem), which includes three subindicators: (i) the presence of credible elections; (ii) institutional checks and balances;
 and (iii) the influence of civil society and media activity.
+
 Polity: This variable is a measure of the normative rationale. The measurement is subset as two regime types: (i) a democratic polity, democratic_polity,
 and (ii) autocratic polity, autocratic_polity, to capture the unique features of each
 regime type. The measure is used to assess the propensity for peacekeeping through a
 set of shared normative values. The polity score is derived from a set of four indicators
 that are compiled as an interval measurement.
-Regional_leadership: This variable will measure the institutional rationale
-22
-through a measurement of the relationship between peacekeeping contributions and
+
+Regional_leadership: This variable will measure the institutional rationale through a measurement of the relationship between peacekeeping contributions and
 state participation in regional institutions including: (i) UN Security Council nonpermanent members, (ii) African Union chairmanships, and (iii) AU Peace and Security
 Council member states. The variable is an interval measurement that indexes the
 total number of regional institutions that an African state participates in within a
 given year.
+
 Foreign_military_post: This variable will assess the role of bilateral security
 partnerships with NATO and European Union allies. This measure is operationalized
 by assessing the presence of enduring foreign military posts present within African
 states. Bilateral partner nations include: US, UK, Belgium, Netherlands, Canada,
 Germany, Italy, and France. The variable is dummy-coded (xij = 1) if an African
 state has a foreign military post and (xij = 0), if otherwise.
-Generalized Event Count (GEC) Model
+
+# Generalized Event Count (GEC) Model
 Initially, I specified a generalized linear model (GLM) with a Bernoulli distribution and a log link function. I aggregated a state’s propensity to support peacekeeping
 as a simple binary outcome where, (Yi = 1), if a state contributes peacekeepers in a
 given year and (Yi = 0), if otherwise. Although a valid approach, additional spatiotemporal dynamics became apparent as I compiled the dataset. For example, a state’s
@@ -119,7 +121,7 @@ data generating process. The outcome variable, Yi
 , indexes the number of observed
 peacekeeping contribution per calendar year. The explanatory variables, Xi
 , measure
-23
+
 continuous processes such as the level of regional integration, military capacity, and
 overall governance as well as a dichotomous variable to assess the presence of foreign
 military posts. Because the processes that produce these variables are unobservable, I
@@ -129,7 +131,7 @@ The Poisson model requires two main assumptions. An independence assumption hold
 previous history.7 The principle of homogeneity holds that the rate of event occurrence
 λt
 , is constant over period t. If these two assumptions hold then the data can be
-modeled using a standard Poisson distribution with mean, E[Yt
+modeled using a standard Poisson distribution with mean, $$E[Yt
 ] ≡ λt
 .
 Yt ∼ fp(yt
@@ -138,7 +140,8 @@ Yt ∼ fp(yt
 yt
 t
 yt
-!
+!$$
+
 (1)
 However, these assumptions are tenuous for panel data. First, I assume that a
 state is more likely to continue supporting a UN mission at time, t, after an initial
@@ -319,7 +322,8 @@ to peacekeeping operations. Observed zero counts are the result of underlying st
 rationales. As a result, I select a fixed-effect model to control for time-invariant
 characteristics of individual African states and include cluster-robust standard errors
 to control for heteroskedasticity and serial correlation.
-GEC Model Results
+
+## GEC Model Results
 Table 4 provides a comparison of Poisson and negative binomial models. The
 results are pooled from the imputed datasets (m = 5) to reflect the uncertainty
 surrounding the estimated values.10
