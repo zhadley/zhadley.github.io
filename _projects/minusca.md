@@ -86,22 +86,22 @@ In 2018, Gabon announced its intention to withdrawal from MINUSCA citing “the 
 
 [^2]: United Nations Security Council S/RES/2149. (2014). Resolution 2149 (2014) Adopted by the Security Council at its 7153rd meeting, on 10 April 2014. Retrieved from <https://documents-dds-ny.un.org/doc/UNDOC/GEN/N14/295/81/pdf/N1429581.pdf>
 
-[^3]: United Nations Security Council S/2014/762. (2014). Letter dated 28 October 2014 from the Panel of Experts on the Central African Republic established pursuant to Security Council resolution 2127 (2013) addressed to the President of the Security Council. Retrieved from https://documents-ddsny.un.org/doc/UNDOC/GEN/N14/538/97/pdf/N1453897.pdf
+[^3]: United Nations Security Council S/2014/762. (2014). Letter dated 28 October 2014 from the Panel of Experts on the Central African Republic established pursuant to Security Council resolution 2127 (2013) addressed to the President of the Security Council. Retrieved from <https://documents-ddsny.un.org/doc/UNDOC/GEN/N14/538/97/pdf/N1453897.pdf>
 
-[^4]: Dembassa-Kette, A. (2014). At least 31 people killed in Central African Republic fighting. Reuters. Retrieved from https://www.businessinsider.com/r-at-least31-people-killed-in-central-african-republic-fighting-2014-15
+[^4]: Dembassa-Kette, A. (2014). At least 31 people killed in Central African Republic fighting. Reuters. Retrieved from <https://www.businessinsider.com/r-at-least31-people-killed-in-central-african-republic-fighting-2014-15>
 
-[^5]: Dembassa-Kette, A. (2016). Central African Republic's president vows peace. Reuters. Retrieved from https://www.reuters.com/article/us-centralafrica-president/central-african-republics-president-vows-peace-reforms-at-inauguration-idUSKCN0WW1ZG
+[^5]: Dembassa-Kette, A. (2016). Central African Republic's president vows peace. Reuters. Retrieved from <https://www.reuters.com/article/us-centralafrica-president/central-african-republics-president-vows-peace-reforms-at-inauguration-idUSKCN0WW1ZG>
 
-[^6]: United Nations Security Council S/2018/125. (2018). Central African Republic: Report of the Secretary-General (MINUSCA). Retrieved from https://documents-ddsny.un.org/doc/UNDOC/GEN/N18/028/58/pdf/N1802858.pdf
+[^6]: United Nations Security Council S/2018/125. (2018). Central African Republic: Report of the Secretary-General (MINUSCA). Retrieved from <https://documents-ddsny.un.org/doc/UNDOC/GEN/N18/028/58/pdf/N1802858.pdf>
 
 [^7]: Seay, L. (2016, June 3). Is Rwanda’s authoritarian state sustainable. The Washington Post.
 
 [^8]: Moncrieff, R., & Vircoulon, T. (2017, September 1). The Burundian army’s dangerous over-reliance on peacekeeping. African Arguments.
 
-[^9]: Ross, A. (2017, July 4). Burundi authorities purging army on ethnic lines: rights group. Reuters. Retrieved from https://www.reuters.com/article/usburundi-politics/burundi-authorities-purging-army-on-ethnic-lines-rightsgroup-idUSKBN19P1MA
+[^9]: Ross, A. (2017, July 4). Burundi authorities purging army on ethnic lines: rights group. Reuters. Retrieved from <https://www.reuters.com/article/usburundi-politics/burundi-authorities-purging-army-on-ethnic-lines-rightsgroup-idUSKBN19P1MA>
 
 [^10]: Barany, Z. (2017). The Influence of North African Militaries in Foreign Policy-Making. Middle East Institute.
 
-[^11]: United Nations Secretary General (2017). A Note to Correspondents on MINUSCA. Retrieved from https://www.un.org/sg/en/content/sg/note-correspondents/2017-06-21/note-correspondents-minusca
+[^11]: United Nations Secretary General (2017). A Note to Correspondents on MINUSCA. Retrieved from <https://www.un.org/sg/en/content/sg/note-correspondents/2017-06-21/note-correspondents-minusca>
 
-[^12]: Lang, D. (2017). Addis Ababa January 2017. Panapress. Retrieved from https://www.panapress.com/Addis-Ababa-Jan-2017-sd_addis2017-d1-lang1-p11.html
+[^12]: Lang, D. (2017). Addis Ababa January 2017. Panapress. Retrieved from <https://www.panapress.com/Addis-Ababa-Jan-2017-sd_addis2017-d1-lang1-p11.html>
