@@ -1,8 +1,6 @@
 # Zachary Hadley
 
-PhD Candidate
-
-AGS Paris
+AGS Paris, PhD Candidate
 
 Welcome!
 
