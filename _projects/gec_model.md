@@ -1,5 +1,17 @@
+---
+title: 'Models and Simulation'
+subtitle: 'A New Model for Security Cooperation'
+date: 2019-11-13 00:00:00
+featured_image: '/images/nsa_tank.jpg'
+---
 
-## A New Security Cooperation Model
+![](/images/nsa_tank.jpg)
+
+Zachary Hadley, PhD Candidate 
+
+AGS Paris 
+
+## Panel Event Count (PEC) Model
 In order to maintain consistency and clarity throughout the following section,
 common statistical terms are used to describe the research design, maximum likelihood
 estimation (MLE), and Markov chain Monte Carlo (MCMC) simulation. Outcome
