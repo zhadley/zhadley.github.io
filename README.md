@@ -1,5 +1,8 @@
-# Zachary Hadley, PhD Candidate
-AGS Paris, International Relations
+# Zachary Hadley
+
+PhD Candidate
+
+AGS Paris
 
 Welcome!
 
