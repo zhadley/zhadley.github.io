@@ -1,5 +1,5 @@
 
-# GEC Model
+## A New Security Cooperation Model
 In order to maintain consistency and clarity throughout the following section,
 common statistical terms are used to describe the research design, maximum likelihood
 estimation (MLE), and Markov chain Monte Carlo (MCMC) simulation. Outcome
