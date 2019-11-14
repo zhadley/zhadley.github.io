@@ -8,8 +8,6 @@ featured_image: '/images/congo_peacekeepers.jpg'
 
 ![](/images/congo_peacekeepers.jpg)
 
-# MONUSCO: African Peacekeepers in the Democratic Republic of Congo 
-
 Zachary Hadley, PhD Candidate 
 
 AGS Paris 
