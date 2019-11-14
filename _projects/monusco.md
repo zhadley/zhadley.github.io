@@ -89,8 +89,7 @@ The ultimate success of the mission will depend upon the resolve and commitment 
 
 [^2]: Stapleton, T. (2013). A Military History of Africa. Praeger Press. California
 
-[^3]: Gettleman, J., & Kron, J. (2012, November 20). Congo Rebels Seize Goma, a Commercial Hub. The New York Times. Retrieved from
-<https://www.nytimes.com/2012/11/21-world/africa/congolese-rebels-reachgoma-reports-say.html>
+[^3]: Gettleman, J., & Kron, J. (2012, November 20). Congo Rebels Seize Goma, a Commercial Hub. The New York Times. Retrieved from <https://www.nytimes.com/2012/11/21-world/africa/congolese-rebels-reachgoma-reports-say>
 
 [^4]: Peacekeeping is defined as "a technique to preserve the peace where fighting has been halted and to assist in the implementing agreements." Peace enforcement involves the application of "coercive measures, including the use of military force" to restore peace and security (United Nations Peacekeeping Operations Principles and Guidelines, 2010). 
 
