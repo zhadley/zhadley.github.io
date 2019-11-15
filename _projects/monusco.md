@@ -4,8 +4,7 @@ subtitle: 'African Peacekeepers in the Democratic Republic of Congo'
 date: 2019-11-13 00:00:00
 featured_image: '/images/congo_peacekeepers.jpg'
 ---
-
-{% include image.html url="/images/congo_peacekeepers.jpg" description="Tanzanian soldiers supporting the SADC-led Force Intervention Brigade (FIB) in the Democratic Republic of Congo." %}
+![](/images/congo_peacekeepers.jpg)
 
 Zachary Hadley, PhD Candidate 
 
