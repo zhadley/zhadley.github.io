@@ -5,8 +5,7 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/congo_peacekeepers.jpg'
 ---
 
-
-![](/images/congo_peacekeepers.jpg)
+{% include image.html url="/images/congo_peacekeepers.jpg" description="Tanzania soldiers supporting the SADC-led Force Intervention Brigade (FIB) in the Democratic Republic of Congo." %}
 
 Zachary Hadley, PhD Candidate 
 
