@@ -5,8 +5,7 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/minusca.jpg'
 ---
 
-![](/images/minusca.jpg).caption[Female peacekeepers from the Rwandan Defense Forces (RDF) on patrol in Bangui, CAR.]
-
+![](/images/minusca.jpg)
 
 Zachary Hadley, PhD Candidate 
 
