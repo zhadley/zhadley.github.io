@@ -1,6 +1,6 @@
 ---
 title: 'Fixing a Hole'
-subtitle: 'Contemporary Security Issues in Africa'
+subtitle: 'A Review of _Contemporary Security Issues in Africa_ by William A. Taylor'
 date: 2019-11-13 00:00:00
 featured_image: '/images/nsa_tank.jpg'
 ---
