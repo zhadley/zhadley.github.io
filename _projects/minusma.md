@@ -5,7 +5,7 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/minusma.jpg'
 ---
 
-![]("/images/minusma.jpg")
+![](/images/minusma.jpg)
 
 Zachary Hadley, PhD Candidate 
 
