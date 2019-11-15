@@ -6,7 +6,7 @@ featured_image: '/images/minusma.jpg'
 ---
 
 
-![](/images/minusma.jpg)
+{% include image.html url="/images/minusma.jpg" description="A Burkinabe peacekeeper from the Burkina Faso contingent of the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA)." %}
 
 Zachary Hadley, PhD Candidate 
 
