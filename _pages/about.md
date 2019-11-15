@@ -15,4 +15,4 @@ R replication data is available on https://dataverse.harvard.edu/dataverse/afric
 
 ORCID: https://orcid.org/0000-0001-6525-7884
 
-I am a member of the American Political Science Association (APSA), the International Political Science Association (IPSA), the Peace Science Society (International), and the Harvard Clubs of France.
+I am a member of the American Political Science Association (APSA), the International Political Science Association (IPSA), the Peace Science Society (International), and the Harvard Club of France.
