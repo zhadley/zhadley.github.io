@@ -4,11 +4,9 @@ subtitle: 'African Peacekeepers in the Central African Republic'
 date: 2019-11-13 00:00:00
 featured_image: '/images/minusca.jpg'
 ---
-.center[
-![](/images/minusca.jpg)
-.caption[Female peacekeepers from the Rwandan Defense Forces (RDF) on patrol in Bangui, CAR.
-]
-]
+
+![](/images/minusca.jpg).caption[Female peacekeepers from the Rwandan Defense Forces (RDF) on patrol in Bangui, CAR.]
+
 
 Zachary Hadley, PhD Candidate 
 
