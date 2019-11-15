@@ -5,7 +5,7 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/minusma.jpg'
 ---
 
-
+{% include image.html url="/images/minusma.jpg" description="A MINUSMA peacekeeper from Burkina Faso in Mali." %}
 
 Zachary Hadley, PhD Candidate 
 
