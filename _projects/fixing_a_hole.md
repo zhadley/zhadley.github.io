@@ -5,7 +5,8 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/nsa_tank.jpg'
 ---
 
-[![](/images/nsa_tank.jpg)*National Salvation Front (NAS) Soviet-era T-55 tank in Eastern Equatoria State, South Sudan.*]
+{% include image.html url="/images/nsa_tank.jpg" description="National Salvation Front (NAS) Soviet-era T-55 tank in Eastern Equatoria State, South Sudan." %}
+
 
 Zachary Hadley, PhD Candidate 
 
