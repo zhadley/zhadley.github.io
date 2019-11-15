@@ -49,7 +49,7 @@ Equally plausible, a vicious circle of poor governance, moribund economies, and 
 
 A discussion of Russian involvement in the Central African Republic is a missed opportunity to anchor regional challenges to international security. At the first Russia-Africa Summit in 2019, Central African President Faustin-Archange Toudera requested that Russian President Vladimir Putin personally "intervene" to overturn international arms embargos limiting military sales to the country. Between 2014 and 2018, 17 percent of all major Russian weapon exports were destined for the African continent --- second only to its Asian exports. The growing reliance on Russian contractors for security assistance and training amplifies an alarming trend. Russia will seek to gain political and military leverage in the absence of Western engagement. 
 
-The United States and its allies must insist on democratic rule of law while strengthening its security institutions.  At the same time, it must find ways to impose costs on its global competitors while mitigating the potential for blow-back on countries such as the Central African Republic. The balance act will become a defining challenge for the United States in the coming Global Power Competition. 
+The United States and its allies must insist on democratic rule of law while strengthening its security institutions.  At the same time, it must find ways to impose costs on its near-peer competitors while mitigating the potential for blow-back on countries such as the Central African Republic. The balance act will become a defining challenge for the United States in the coming Global Power Competition. 
 
 
 ## Socio-Economic Challenges in Sub-Saharan Africa
