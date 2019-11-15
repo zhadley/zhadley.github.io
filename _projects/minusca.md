@@ -5,7 +5,8 @@ date: 2019-11-13 00:00:00
 featured_image: '/images/minusca.jpg'
 ---
 
-![](/images/minusca.jpg)
+
+{% include image.html url="/images/minusca.jpg" description="Female peacekeepers from Rwanda on patrol in Bangui, CAR." %}
 
 Zachary Hadley, PhD Candidate 
 
