@@ -13,8 +13,8 @@ My thesis research, _"African Spaghetti Bowl: Assessing State Rationales in Afri
 
 I'm a member of the American Political Science Association (APSA), the International Political Science Association (IPSA), the Peace Science Society (International), and the Harvard Club of France.
 
-ORCID: [](https://orcid.org/0000-0001-6525-7884)
+ORCID: <https://orcid.org/0000-0001-6525-7884>
 
-Harvard Scholar page: [](https://scholar.harvard.edu/hadley)
+Harvard Scholar page: <https://scholar.harvard.edu/hadley>
 
 
