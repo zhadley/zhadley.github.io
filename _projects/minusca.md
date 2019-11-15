@@ -4,9 +4,11 @@ subtitle: 'African Peacekeepers in the Central African Republic'
 date: 2019-11-13 00:00:00
 featured_image: '/images/minusca.jpg'
 ---
-
-![]("/images/minusca.jpg")
-
+.center[
+![](/images/minusca.jpg)
+.caption[Female peacekeepers from the Rwandan Defense Forces (RDF) on patrol in Bangui, CAR.
+]
+]
 
 Zachary Hadley, PhD Candidate 
 
@@ -32,7 +34,11 @@ Periodic armed clashes between anti-Balaka and ex-Séléka armed groups continue
 
 ## UN-MINUSCA Model Assessment 
 
-The results demonstrate partial support for the model across the top African contributors. Only Rwanda meets the defined threshold for full model support. Low scores on political accountability impact many contributors full ascension. However, the majority of states achieve upper quantile scores in at least two explanatory variables including good governance and regional leadership with strong participation in UN and AU decision-making organs. Furthermore, there is a significant regional dynamic within MINUSCA due to the direct involvement of ECCAS and its member states though MICOPAX and later, AU-MISCA. This provides a marked difference from MONUSCO, which largely relies on outside support for contributions. As a result, the MINUSCA case provides robust support for the institutional rationale. The political and trade rationales are mixed due to the wide variance in contributor profiles from Zambia to the Republic of Congo. 
+The results demonstrate partial support for the model across the top African contributors. Only Rwanda meets the defined threshold for full model support. Low scores on political accountability impact many contributors full ascension. However, the majority of states achieve upper quantile scores in at least two explanatory variables including good governance and regional leadership with strong participation in UN and AU decision-making organs. 
+
+>There is a significant regional dynamic within MINUSCA due to the direct involvement of ECCAS and its member states though MICOPAX and later, AU-MISCA. 
+
+This provides a marked difference from MONUSCO, which largely relies on outside support for contributions. As a result, the MINUSCA case provides robust support for the institutional rationale. The political and trade rationales are mixed due to the wide variance in contributor profiles from Zambia to the Republic of Congo. 
 
 \rowcolors{2}{gray!6}{white}
 \begin{table}
