@@ -28,48 +28,20 @@ The implementation of the Nairobi Declaration works towards that objective. With
 
 ## UN-MONUSCO Model Assessment
 
-```{r, echo=TRUE}
-library("table")
-
-\rowcolors{2}{gray!6}{white}
-\begin{table}
-
-\caption{\label{tab:}UN-MONUSCO Model Assessment (2010-2016).}
-\centering
-\resizebox{\linewidth}{!}{
-\begin{tabular}[t]{rllrrrrl}
-\hiderowcolors
-\hiderowcolors
-\toprule
-\multicolumn{3}{c}{ } & \multicolumn{2}{c}{\textit{Political Rationale}} & \multicolumn{1}{c}{\textit{Institutional Rationale}} & \multicolumn{1}{c}{\textit{Economic Rationale}} \\
-\cmidrule(l{2pt}r{2pt}){4-5} \cmidrule(l{2pt}r{2pt}){6-6} \cmidrule(l{2pt}r{2pt}){7-7}
-\textbf{Rank} & \textbf{TCC/PCC} & \textbf{SADC} & \textbf{Governance} & \textbf{Political Accountability} & \textbf{Regional Leadership} & \textbf{Trade Across Borders} & \textbf{Model Support}\\
-\midrule
-\showrowcolors
-1 & South Africa & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{green}{69.9}} & \textbf{\textcolor{green}{1.21}} & \textbf{\textcolor{green}{13}} & \textbf{\textcolor{green}{65.6}} & \textbf{\textcolor{green}{Full}}\\
-2 & Egypt & \textbf{\textcolor{red}{No}} & 47.3 & \textbf{\textcolor{red}{0.16}} & \textbf{\textcolor{green}{4}} & \textbf{\textcolor{green}{70.0}} & \textbf{\textcolor{orange}{Partial}}\\
-3 & Morocco & \textbf{\textcolor{red}{No}} & 56.3 & 0.75 & \textbf{\textcolor{green}{2}} & \textbf{\textcolor{green}{82.5}} & \textbf{\textcolor{orange}{Partial}}\\
-4 & Tanzania & \textbf{\textcolor{green}{Yes}} & 56.2 & 0.79 & \textbf{\textcolor{green}{5}} & 59.1 & \textbf{\textcolor{orange}{Partial}}\\
-5 & Malawi & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{green}{57.5}} & 0.77 & \textbf{\textcolor{green}{2}} & \textbf{\textcolor{red}{31.2}} & \textbf{\textcolor{green}{Full}}\\
-\addlinespace
-6 & Benin & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{58.9}} & \textbf{\textcolor{green}{0.94}} & \textbf{\textcolor{green}{5}} & 60.4 & \textbf{\textcolor{green}{Full}}\\
-7 & Ghana & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{66.4}} & \textbf{\textcolor{green}{1.09}} & 0 & 64.6 & \textbf{\textcolor{orange}{Partial}}\\
-8 & Senegal & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{59.4}} & \textbf{\textcolor{green}{1.11}} & \textbf{\textcolor{green}{1}} & \textbf{\textcolor{green}{74.4}} & \textbf{\textcolor{green}{Full}}\\
-9 & Niger & \textbf{\textcolor{red}{No}} & 49.4 & 0.63 & \textbf{\textcolor{green}{3}} & \textbf{\textcolor{red}{22.0}} & \textbf{\textcolor{orange}{Partial}}\\
-10 & Tunisia & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{62.9}} & \textbf{\textcolor{green}{0.90}} & \textbf{\textcolor{green}{1}} & \textbf{\textcolor{green}{81.3}} & \textbf{\textcolor{green}{Full}}\\
-\addlinespace
-\hiderowcolors
- & Pop. Mean &  & 50.6 & 0.49 & 0.49 & 50.8 & \\
- & Pop. Median & & 50.1 & 0.55 & 0.00 & 55.0 & \\
-\bottomrule
-\multicolumn{8}{l}{Note: Individual state values are averaged across the time period from 2010-2016.}\\ 
-\multicolumn{8}{l}{Note 2: \textcolor{green}{Green} values represent upper quartile ($Q_{3}$) scores across the total population of African states. \textcolor{red}{Red} values indicate bottom quartile ($Q_{1}$).}\\ 
-\multicolumn{8}{l}{Note 3: \textcolor{green}{Full} model support is defined as upper quartile scores on at least three measures. \textcolor{orange}{Partial} model support is defined as two upper quartile scores.}\\
-\multicolumn{8}{l}{\textcolor{red}{Low} model support is defined as zero or one upper quartile scores.}\\
-\end{tabular}}
-\end{table}
-\rowcolors{2}{white}{white}
-```
+| Rank|TCC/PCC      |REC - SADC | Governance| Political Accountability| Regional Leadership| Trade Across Borders|Model Support? |
+|----:|:------------|:----------|----------:|------------------------:|-------------------:|--------------------:|:--------------|
+|    1|South Africa |YES        |      69.87|                     1.21|               13.00|                65.57|FULL           |
+|    2|Egypt        |NO         |      47.26|                     0.16|                4.00|                70.04|PARTIAL        |
+|    3|Morocco      |NO         |      56.27|                     0.75|                2.00|                82.55|FULL           |
+|    4|Tanzania     |YES        |      56.24|                     0.79|                5.00|                59.15|PARTIAL        |
+|    5|Malawi       |YES        |      57.46|                     0.77|                2.00|                31.18|PARTIAL        |
+|    6|Benin        |NO         |      58.91|                     0.94|                5.00|                60.36|FULL           |
+|    7|Ghana        |NO         |      66.44|                     1.09|                0.00|                64.56|FULL           |
+|    8|Senegal      |NO         |      59.43|                     1.11|                1.00|                74.36|FULL           |
+|    9|Niger        |NO         |      49.44|                     0.63|                3.00|                22.03|PARTIAL        |
+|   10|Tunisia      |NO         |      62.87|                     0.90|                1.00|                81.33|FULL           |
+|   NA|Pop. Mean    |NA         |      50.59|                     0.49|                0.49|                50.76|NA             |
+|   NA|Pop. Median  |NA         |      50.15|                     0.55|                0.00|                54.98|NA             |
 
 South Africa as the top contributor achieves upper quartiles scores across each of the explanatory variables. As a regional power and founding SADC member, South Africa took a lead role in early mediation efforts by engaging in high-level dialogue, facilitating the inter-Congolese dialogue, and supporting diplomatic negotiations during the Congo Wars. Despite recent corruption scandals, South Africa’s political institutions are largely pluralistic and credible. Its dominant presence within regional institutions is reflected by its large score on the regional leadership measure. As a member of the BRICS economic organization, South Africa has also increased its market openness and maintains robust trade linkages with its regional economic partners. South Africa views its regional integration as consistent with AU objectives and essential for its sustainable economic growth[^8]. 
 
