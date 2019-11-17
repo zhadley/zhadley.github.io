@@ -28,20 +28,148 @@ The implementation of the Nairobi Declaration works towards that objective. With
 
 ## UN-MONUSCO Model Assessment
 
-| Rank|TCC/PCC      |REC - SADC | Governance| Political Accountability| Regional Leadership| Trade Across Borders|Model Support? |
-|----:|:------------|:----------|----------:|------------------------:|-------------------:|--------------------:|:--------------|
-|    1|South Africa |YES        |      69.87|                     1.21|               13.00|                65.57|FULL           |
-|    2|Egypt        |NO         |      47.26|                     0.16|                4.00|                70.04|PARTIAL        |
-|    3|Morocco      |NO         |      56.27|                     0.75|                2.00|                82.55|FULL           |
-|    4|Tanzania     |YES        |      56.24|                     0.79|                5.00|                59.15|PARTIAL        |
-|    5|Malawi       |YES        |      57.46|                     0.77|                2.00|                31.18|PARTIAL        |
-|    6|Benin        |NO         |      58.91|                     0.94|                5.00|                60.36|FULL           |
-|    7|Ghana        |NO         |      66.44|                     1.09|                0.00|                64.56|FULL           |
-|    8|Senegal      |NO         |      59.43|                     1.11|                1.00|                74.36|FULL           |
-|    9|Niger        |NO         |      49.44|                     0.63|                3.00|                22.03|PARTIAL        |
-|   10|Tunisia      |NO         |      62.87|                     0.90|                1.00|                81.33|FULL           |
-|   NA|Pop. Mean    |NA         |      50.59|                     0.49|                0.49|                50.76|NA             |
-|   NA|Pop. Median  |NA         |      50.15|                     0.55|                0.00|                54.98|NA             |
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<caption>MONUSCO Model Assessment (2010-2016)</caption>
+ <thead>
+  <tr>
+   <th style="text-align:right;"> Rank </th>
+   <th style="text-align:left;"> TCC/PCC </th>
+   <th style="text-align:left;"> REC - SADC </th>
+   <th style="text-align:right;"> Governance </th>
+   <th style="text-align:right;"> Political Accountability </th>
+   <th style="text-align:right;"> Regional Leadership </th>
+   <th style="text-align:right;"> Trade Across Borders </th>
+   <th style="text-align:left;"> Model Support? </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> YES </td>
+   <td style="text-align:right;"> 69.87 </td>
+   <td style="text-align:right;"> 1.21 </td>
+   <td style="text-align:right;"> 13.00 </td>
+   <td style="text-align:right;"> 65.57 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Egypt </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 47.26 </td>
+   <td style="text-align:right;"> 0.16 </td>
+   <td style="text-align:right;"> 4.00 </td>
+   <td style="text-align:right;"> 70.04 </td>
+   <td style="text-align:left;"> PARTIAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Morocco </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 56.27 </td>
+   <td style="text-align:right;"> 0.75 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 82.55 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Tanzania </td>
+   <td style="text-align:left;"> YES </td>
+   <td style="text-align:right;"> 56.24 </td>
+   <td style="text-align:right;"> 0.79 </td>
+   <td style="text-align:right;"> 5.00 </td>
+   <td style="text-align:right;"> 59.15 </td>
+   <td style="text-align:left;"> PARTIAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> Malawi </td>
+   <td style="text-align:left;"> YES </td>
+   <td style="text-align:right;"> 57.46 </td>
+   <td style="text-align:right;"> 0.77 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 31.18 </td>
+   <td style="text-align:left;"> PARTIAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> Benin </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 58.91 </td>
+   <td style="text-align:right;"> 0.94 </td>
+   <td style="text-align:right;"> 5.00 </td>
+   <td style="text-align:right;"> 60.36 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> Ghana </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 66.44 </td>
+   <td style="text-align:right;"> 1.09 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 64.56 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> Senegal </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 59.43 </td>
+   <td style="text-align:right;"> 1.11 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 74.36 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> Niger </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 49.44 </td>
+   <td style="text-align:right;"> 0.63 </td>
+   <td style="text-align:right;"> 3.00 </td>
+   <td style="text-align:right;"> 22.03 </td>
+   <td style="text-align:left;"> PARTIAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> Tunisia </td>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:right;"> 62.87 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 81.33 </td>
+   <td style="text-align:left;"> FULL </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Mean </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.59 </td>
+   <td style="text-align:right;"> 0.49 </td>
+   <td style="text-align:right;"> 0.49 </td>
+   <td style="text-align:right;"> 50.76 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Median </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.15 </td>
+   <td style="text-align:right;"> 0.55 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 54.98 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+</tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: </span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Individual state scores are averaged across the time period from 2010-2016.</td></tr>
+</tfoot>
+</table>
 
 South Africa as the top contributor achieves upper quartiles scores across each of the explanatory variables. As a regional power and founding SADC member, South Africa took a lead role in early mediation efforts by engaging in high-level dialogue, facilitating the inter-Congolese dialogue, and supporting diplomatic negotiations during the Congo Wars. Despite recent corruption scandals, South Africa’s political institutions are largely pluralistic and credible. Its dominant presence within regional institutions is reflected by its large score on the regional leadership measure. As a member of the BRICS economic organization, South Africa has also increased its market openness and maintains robust trade linkages with its regional economic partners. South Africa views its regional integration as consistent with AU objectives and essential for its sustainable economic growth[^8]. 
 
