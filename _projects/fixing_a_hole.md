@@ -44,7 +44,7 @@ The concept of ungoverned spaces provides a thread traceable throughout subseque
 
 Mali provides a corollary to the corrosive effect of corruption on political institutions. Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. Between 1999 and 2013, Mali received an estimated 1.8 billion USD in U.S. foreign aid alone. Yet, by 2013 it had experienced a Taureg rebellion in the Azawad, a military coup in Bamako, and renewed violent extremism across its porous Sahel borders. Clearly, corruption alone cannot account for the dramatic reversal in Mali's fortune. Compare Mali's corruption score to its regional neighbors. 
 
-[Table 1: Comparision of Corruption Index]
+[Table 1: Comparision of Corruption Index] ECOWAS members scatter plot from 1999-2013.
 
 Equally plausible, a vicious circle of poor governance, moribund economies, and weak security institutions have fostered greater levels of regional insecurity. The focus on corruption belies the multiple challenges facing the Central African Republic (CAR). The picture thus provided remains incomplete. 
 
@@ -77,10 +77,10 @@ The final chapters highlight geopolitical implications for Africa in terms of gr
 
 > "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820). 
 
-However, portrayal of U.S. national interests in terms of its military engagements provides an incomplete picture. A more nuanced approach would show that other forms of U.S. foreign aid significantly dwarf its military aid. Moreover, aid levels to Africa have remained relatively unchanged since the 1990s. U.S. foreign military aid accounts for just 5.6 billion dollars during the past decade.
+However, portrayal of U.S. national interests in terms of its military engagements provides an incomplete picture. A more nuanced approach would show that other forms of U.S. foreign aid significantly dwarf its military aid. Moreover, aid levels to Africa have remained relatively unchanged since 1999. U.S. foreign military aid accounts for just 5.6 billion dollars during the past decade.
 
 
-[Figure 3. Levels of U.S. Foreign and Military Aid since 1990]
+[Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
 
 The work acknowledges critical arguments that USAFRICOM has militarized U.S. foreign policy in Africa. In particular, the focus on "phase zero" operations risk duplicating the roles and responsibilities of the U.S. interagency, non-governmental organizations and donor nations. However, the work does not provide evidence to support this contention. As a counterpoint, it highlights Chinese involvement in terms of its economic interests. 
