@@ -44,7 +44,7 @@ The concept of ungoverned spaces provides a thread traceable throughout subseque
 
 Mali provides a corollary to the corrosive effect of corruption on political institutions. Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. Between 1999 and 2013, Mali received an estimated 1.8 billion USD in U.S. foreign aid alone. Yet, by 2013 it had experienced a Taureg rebellion in the Azawad, a military coup in Bamako, and renewed violent extremism across its porous Sahel borders. Clearly, corruption alone cannot account for the dramatic reversal in Mali's fortune. Compare Mali's corruption score to its regional neighbors. 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="images/fixing_a_hole.html" height="525" width="100%"></iframe>
+![](/images/cpi_plot.png)
 
 Equally plausible, a vicious circle of poor governance, moribund economies, and weak security institutions have fostered greater levels of regional insecurity. The focus on corruption belies the multiple challenges facing the Central African Republic (CAR). The picture thus provided remains incomplete. 
 
