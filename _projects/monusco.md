@@ -143,24 +143,24 @@ The implementation of the Nairobi Declaration works towards that objective. With
    <td style="text-align:left;"> FULL </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;">  </td>
    <td style="text-align:left;"> Pop. Mean </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:right;"> 50.59 </td>
    <td style="text-align:right;"> 0.49 </td>
    <td style="text-align:right;"> 0.49 </td>
    <td style="text-align:right;"> 50.76 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;">  </td>
    <td style="text-align:left;"> Pop. Median </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">   </td>
    <td style="text-align:right;"> 50.15 </td>
    <td style="text-align:right;"> 0.55 </td>
    <td style="text-align:right;"> 0.00 </td>
    <td style="text-align:right;"> 54.98 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
   </tr>
 </tbody>
 <tfoot>
