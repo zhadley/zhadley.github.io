@@ -167,9 +167,7 @@ The G5 Sahel task force may complement the political process in Mali but cannot 
   </tr>
 </tbody>
 <tfoot>
-<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: </span></td></tr>
-<tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup></sup> Individual state scores are averaged across the time period from 2013-2016.</td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: Individual state scores are averaged across the time period from 2013-2016</span></td></tr>
 </tfoot>
 </table>
 
