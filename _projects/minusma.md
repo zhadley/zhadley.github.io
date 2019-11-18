@@ -31,43 +31,282 @@ The G5 Sahel task force may complement the political process in Mali but cannot 
 
 ## UN MINUSMA Model Assessment
 
-\rowcolors{2}{gray!6}{white}
-\begin{table}
-
-\caption{\label{tab:}UN-MINUSMA Model Assessment (2013-2016).}
-\centering
-\resizebox{\linewidth}{!}{
-\begin{tabular}[t]{rllrrrrl}
-\hiderowcolors
-\toprule
-\multicolumn{3}{c}{ } & \multicolumn{2}{c}{\textit{Political Rationale}} & \multicolumn{1}{c}{\textit{Institutional Rationale}} & \multicolumn{1}{c}{\textit{Economic Rationale}} \\
-\cmidrule(l{2pt}r{2pt}){4-5} \cmidrule(l{2pt}r{2pt}){6-6} \cmidrule(l{2pt}r{2pt}){7-7}
-\textbf{Rank} & \textbf{TCC/PCC} & \textbf{ECOWAS} & \textbf{Governance} & \textbf{Political Accountability} & \textbf{Regional Leadership} & \textbf{Trade Across Borders} & \textbf{Model Support}\\
-\midrule
-\showrowcolors
-1 & Burkina Faso & \textbf{\textcolor{green}{Yes}} & 53.2 & \textbf{\textcolor{green}{1.06}} & 0 & \textbf{\textcolor{red}{29.3}} & \textbf{\textcolor{orange}{Partial}}\\
-2 & Chad &  \textbf{\textcolor{red}{No}} & \textbf{\textcolor{red}{35.0}} & \textbf{\textcolor{red}{-0.02}} & \textbf{\textcolor{green}{6}} & \textbf{\textcolor{red}{11.5}} & \textbf{\textcolor{red}{Low}}\\
-3 & Togo & \textbf{\textcolor{green}{Yes}} & 49.8 & 0.66 & \textbf{\textcolor{green}{1}} & \textbf{\textcolor{green}{68.5}} & \textbf{\textcolor{green}{Full}}\\
-4 & Niger & \textbf{\textcolor{green}{Yes}} & 50.0 & 0.81 & \textbf{\textcolor{green}{3}} & \textbf{\textcolor{red}{21.1}} & \textbf{\textcolor{orange}{Partial}}\\
-5 & Senegal & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{green}{61.0}} & \textbf{\textcolor{green}{1.11}} & \textbf{\textcolor{green}{1}} & \textbf{\textcolor{green}{74.9}} & \textbf{\textcolor{green}{Full}}\\
-\addlinespace
-6 & Guinea & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{red}{44.1}} & 0.51 & \textbf{\textcolor{green}{4}} & 59.6 & \textbf{\textcolor{orange}{Partial}}\\
-7 & Benin & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{green}{58.7}} & \textbf{\textcolor{green}{0.96}} & \textbf{\textcolor{green}{1}} & 62.5 & \textbf{\textcolor{green}{Full}}\\
-8 & Nigeria & \textbf{\textcolor{green}{Yes}} & 46.3 & \textbf{\textcolor{green}{0.78}} & \textbf{\textcolor{green}{5}} & 50.1 & \textbf{\textcolor{green}{Full}}\\
-9 & Ghana & \textbf{\textcolor{green}{Yes}} & \textbf{\textcolor{green}{65.2}} & \textbf{\textcolor{green}{1.01}} & 0 & 59.6 & \textbf{\textcolor{green}{Full}}\\
-10 & Rwanda & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{62.7}} & 0.37 & \textbf{\textcolor{green}{2}} & 48.6 & \textbf{\textcolor{orange}{Partial}}\\
-\addlinespace
-\hiderowcolors
- & Pop. Mean &  & 50.8 & 0.52 & 0.45 & 52.5 & \\
- & Pop. Median &  & 50.2 & 0.58 & 0.00 & 57.3 & \\
-\bottomrule
-\multicolumn{8}{l}{Note: Individual state values are averaged across the time period from 2010-2016.}\\ 
-\multicolumn{8}{l}{Note 2: \textcolor{green}{Green} values represent upper quartile ($Q_{3}$) scores across the total population of African states. \textcolor{red}{Red} values indicate bottom quartile ($Q_{1}$).}\\ 
-\multicolumn{8}{l}{Note 3: \textcolor{green}{Full} model support is defined as upper quartile scores on at least three measures. \textcolor{orange}{Partial} model support is defined as two upper quartile scores.}\\
-\multicolumn{8}{l}{\textcolor{red}{Low} model support is defined as zero or one upper quartile scores.}\\
-\end{tabular}}
-\end{table}
-\rowcolors{2}{white}{white}
+table>
+ <thead>
+  <tr>
+   <th style="text-align:right;"> Rank </th>
+   <th style="text-align:left;"> TCC/PCC </th>
+   <th style="text-align:left;"> REC - ECCAS </th>
+   <th style="text-align:right;"> Governance </th>
+   <th style="text-align:right;"> Political Accountability </th>
+   <th style="text-align:right;"> Regional Leadership </th>
+   <th style="text-align:right;"> Trade Across Borders </th>
+   <th style="text-align:left;"> Model Support? </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Cameroon </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 46.80 </td>
+   <td style="text-align:right;"> 0.29 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 47.74 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Rwanda </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 63.07 </td>
+   <td style="text-align:right;"> 0.37 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 48.26 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Burundi </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 42.10 </td>
+   <td style="text-align:right;"> -0.21 </td>
+   <td style="text-align:right;"> 3.00 </td>
+   <td style="text-align:right;"> 39.35 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Congo </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 43.30 </td>
+   <td style="text-align:right;"> 0.18 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 15.56 </td>
+   <td style="text-align:left;"> Minimal </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> Morocco </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 58.40 </td>
+   <td style="text-align:right;"> 0.75 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 83.83 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> Egypt </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 48.06 </td>
+   <td style="text-align:right;"> 0.18 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 71.42 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> DR Congo </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 35.47 </td>
+   <td style="text-align:right;"> 0.20 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 29.52 </td>
+   <td style="text-align:left;"> Minimal </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> Zambia </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 58.57 </td>
+   <td style="text-align:right;"> 0.64 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 40.80 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> Gabon </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 51.33 </td>
+   <td style="text-align:right;"> 0.30 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 63.65 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> Mauritania </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 44.20 </td>
+   <td style="text-align:right;"> 0.58 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 56.43 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Mean </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.82 </td>
+   <td style="text-align:right;"> 0.52 </td>
+   <td style="text-align:right;"> 0.44 </td>
+   <td style="text-align:right;"> 52.87 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Median </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.35 </td>
+   <td style="text-align:right;"> 0.58 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 57.10 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+</tbody>
+</table>
+>   kable(minusma_formatted, format = 'html',
++         digits = 2,
++         escape = T,
++         )
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;"> Rank </th>
+   <th style="text-align:left;"> TCC/PCC </th>
+   <th style="text-align:left;"> ECOWAS </th>
+   <th style="text-align:right;"> Governance </th>
+   <th style="text-align:right;"> Political Accountability </th>
+   <th style="text-align:right;"> Regional Leadership </th>
+   <th style="text-align:right;"> Trade Across Borders </th>
+   <th style="text-align:left;"> Model Support? </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Burkina Faso </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 53.23 </td>
+   <td style="text-align:right;"> 1.06 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 29.34 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Chad </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 34.95 </td>
+   <td style="text-align:right;"> -0.02 </td>
+   <td style="text-align:right;"> 6.00 </td>
+   <td style="text-align:right;"> 11.46 </td>
+   <td style="text-align:left;"> Minimal </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Togo </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 49.75 </td>
+   <td style="text-align:right;"> 0.66 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 68.50 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Niger </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 50.02 </td>
+   <td style="text-align:right;"> 0.81 </td>
+   <td style="text-align:right;"> 3.00 </td>
+   <td style="text-align:right;"> 21.05 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> Senegal </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 61.02 </td>
+   <td style="text-align:right;"> 1.11 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 74.88 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> Guinea </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 44.15 </td>
+   <td style="text-align:right;"> 0.51 </td>
+   <td style="text-align:right;"> 4.00 </td>
+   <td style="text-align:right;"> 59.65 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> Benin </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 58.73 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 62.50 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> Nigeria </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 46.27 </td>
+   <td style="text-align:right;"> 0.78 </td>
+   <td style="text-align:right;"> 5.00 </td>
+   <td style="text-align:right;"> 50.12 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> Ghana </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 65.15 </td>
+   <td style="text-align:right;"> 1.01 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 59.65 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> Rwanda </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 62.73 </td>
+   <td style="text-align:right;"> 0.37 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 48.64 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Mean </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.75 </td>
+   <td style="text-align:right;"> 0.52 </td>
+   <td style="text-align:right;"> 0.45 </td>
+   <td style="text-align:right;"> 52.51 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Median </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.25 </td>
+   <td style="text-align:right;"> 0.58 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 57.26 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+</tbody>
+</table>
 
 Five of the top ten MINUSMA contributors fully support the model’s predictions with upper quantile scores on good governance, political accountability, regional leadership, and trade integration. Three states including Burkina Faso, Niger, and Rwanda are assessed as providing partial support. This is largely the result of low trade integration scores in comparison to the population average across all African states. However, a closer inspection reveals a gradual improvement on trade within those states over the past decade. Chad stands as an outlier from other top contributors due to its low scores on governance, political accountability, and trade.  
 
