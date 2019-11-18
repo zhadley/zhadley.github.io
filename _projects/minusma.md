@@ -146,24 +146,24 @@ The G5 Sahel task force may complement the political process in Mali but cannot 
    <td style="text-align:left;"> Partial </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> </td>
    <td style="text-align:left;"> Pop. Mean </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> </td>
    <td style="text-align:right;"> 50.75 </td>
    <td style="text-align:right;"> 0.52 </td>
    <td style="text-align:right;"> 0.45 </td>
    <td style="text-align:right;"> 52.51 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> </td>
    <td style="text-align:left;"> Pop. Median </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:right;"> 50.25 </td>
    <td style="text-align:right;"> 0.58 </td>
    <td style="text-align:right;"> 0.00 </td>
    <td style="text-align:right;"> 57.26 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> </td>
   </tr>
 </tbody>
 <tfoot>
