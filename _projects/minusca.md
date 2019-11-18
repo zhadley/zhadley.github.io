@@ -172,6 +172,8 @@ This provides a marked difference from MONUSCO, which largely relies on outside 
    <td style="text-align:left;">  </td>
   </tr>
 </tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: Individual state scores are averaged across the time period from 2014-2016.</span></td></tr>
 </table>
 
 Cameroon as the top contributor to MINUSCA is a reliable partner for regional security cooperation, working with neighboring states to contain instability in CAR, counter Boko Haram in the Lake Chad Basin, and coordinating counter-piracy efforts in the Gulf of Guinea. In addition to MINUSCA, Cameroon also provides modest police contributions to UN peacekeeping missions in Mali (MINUSMA), DRC (MONUSCO), and Darfur (UNAMID). The foreign policy apparatus is highly centralized within the Biya regime, which has dominated Cameroonian politics since 1982. As a result, Cameroon ranks in the middle quartile on the polity measure as a hybrid regime. In recent years, the Cameroonian Armed Forces have benefitted from significant levels of military aid from western partners including the U.S. and France. Yet, its overall level of militarization is low relative to civil society – providing support for the model. Cameroon actively supports AU peace and security efforts by providing a regional training institution for police units and hosts an AU continental logistics hub. Centrally located at the crossroads of the Great Lakes region, Lake Chad Basin, and the Gulf of Guinea, Cameroon’s ability to contain instability while improving its trade infrastructure is key to sustainable economic development. 
