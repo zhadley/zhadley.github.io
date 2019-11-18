@@ -37,43 +37,142 @@ The results demonstrate partial support for the model across the top African con
 
 This provides a marked difference from MONUSCO, which largely relies on outside support for contributions. As a result, the MINUSCA case provides robust support for the institutional rationale. The political and trade rationales are mixed due to the wide variance in contributor profiles from Zambia to the Republic of Congo. 
 
-\rowcolors{2}{gray!6}{white}
-\begin{table}
-
-\caption{\label{tab:}UN-MINUSCA Model Assessment (2014-2016).}
-\centering
-\resizebox{\linewidth}{!}{
-\begin{tabular}[t]{rllrrrrl}
-\hiderowcolors
-\toprule
-\multicolumn{3}{c}{ } & \multicolumn{2}{c}{\textit{Political Rationale}} & \multicolumn{1}{c}{\textit{Institutional Rationale}} & \multicolumn{1}{c}{\textit{Economic Rationale}} \\
-\cmidrule(l{2pt}r{2pt}){4-5} \cmidrule(l{2pt}r{2pt}){6-6} \cmidrule(l{2pt}r{2pt}){7-7}
-\textbf{Rank} & \textbf{TCC/PCC} & \textbf{ECCAS} & \textbf{Governance} & \textbf{Political Accountability} & \textbf{Regional Leadership} & \textbf{Trade Across Borders} & \textbf{Model Support}\\
-\midrule
-\showrowcolors
-1 & Cameroon & \textbf{\textcolor{green}{Yes}} & 46.8 & \textbf{\textcolor{red}{0.29}} & \textbf{\textcolor{green}{1}} & 47.7 & \textbf{\textcolor{orange}{Partial}}\\
-2 & Rwanda & \textbf{\textcolor{green}{Yes}}  & \textbf{\textcolor{green}{63.1}} & 0.37 & \textbf{\textcolor{green}{1}} & 48.3 & \textbf{\textcolor{green}{Full}}\\
-3 & Burundi & \textbf{\textcolor{green}{Yes}}  & \textbf{\textcolor{red}{42.1}} & \textbf{\textcolor{red}{-0.21}} & \textbf{\textcolor{green}{3}} & 39.4 & \textbf{\textcolor{orange}{Partial}}\\
-4 & Congo & \textbf{\textcolor{green}{Yes}}  & 43.3 & \textbf{\textcolor{red}{0.18}} & \textbf{\textcolor{green}{1}} & \textbf{\textcolor{red}{15.6}} & \textbf{\textcolor{red}{Low}}\\
-5 & Morocco & \textbf{\textcolor{red}{No}}  & \textbf{\textcolor{green}{58.4}} & 0.75 & 0 & \textbf{\textcolor{green}{83.8}} & \textbf{\textcolor{orange}{Partial}}\\
-\addlinespace
-6 & Egypt & \textbf{\textcolor{red}{No}} & 48.1 & \textbf{\textcolor{red}{0.19}} & \textbf{\textcolor{green}{2}} & \textbf{\textcolor{green}{71.4}} & \textbf{\textcolor{orange}{Partial}}\\
-7 & DR Congo & \textbf{\textcolor{green}{Yes}}  & 35.5 & \textbf{\textcolor{red}{0.20}} & 0 & \textbf{\textcolor{red}{29.5}} & \textbf{\textcolor{red}{Low}}\\
-8 & Zambia & \textbf{\textcolor{red}{No}} & \textbf{\textcolor{green}{58.6}} & \textbf{\textcolor{green}{0.64}} & 0 & 40.8 & \textbf{\textcolor{orange}{Partial}}\\
-9 & Gabon & \textbf{\textcolor{green}{Yes}}  & 51.3 & 0.30 & 0 & \textbf{\textcolor{green}{63.6}} & \textbf{\textcolor{orange}{Partial}}\\
-10 & Mauritania & \textbf{\textcolor{red}{No}} & 44.2 & 0.58 & \textbf{\textcolor{green}{2}} & 56.4 & \textbf{\textcolor{orange}{Partial}}\\
-\addlinespace
-\hiderowcolors
- & Pop. Mean &  & 50.8 & 0.52 & 0.44 & 52.9 & \\
- & Pop. Median &  & 50.4 & 0.58 & 0.00 & 57.1 & \\
-\bottomrule
-\multicolumn{8}{l}{Note: Individual state values are averaged across the time period from 2010-2016.}\\ 
-\multicolumn{8}{l}{Note 2: \textcolor{green}{Green} values represent upper quartile ($Q_{3}$) scores across the total population of African states. \textcolor{red}{Red} values indicate bottom quartile ($Q_{1}$).}\\ 
-\multicolumn{8}{l}{Note 3: \textcolor{green}{Full} model support is defined as upper quartile scores on at least three measures. \textcolor{orange}{Partial} model support is defined as two upper quartile scores.}\\
-\multicolumn{8}{l}{\textcolor{red}{Low} model support is defined as zero or one upper quartile scores.}\\
-\end{tabular}}
-\end{table}
-\rowcolors{2}{white}{white}
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:right;"> Rank </th>
+   <th style="text-align:left;"> TCC/PCC </th>
+   <th style="text-align:left;"> REC - ECCAS </th>
+   <th style="text-align:right;"> Governance </th>
+   <th style="text-align:right;"> Political Accountability </th>
+   <th style="text-align:right;"> Regional Leadership </th>
+   <th style="text-align:right;"> Trade Across Borders </th>
+   <th style="text-align:left;"> Model Support? </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Cameroon </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 46.80 </td>
+   <td style="text-align:right;"> 0.29 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 47.74 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Rwanda </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 63.07 </td>
+   <td style="text-align:right;"> 0.37 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 48.26 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Burundi </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 42.10 </td>
+   <td style="text-align:right;"> -0.21 </td>
+   <td style="text-align:right;"> 3.00 </td>
+   <td style="text-align:right;"> 39.35 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Congo </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 43.30 </td>
+   <td style="text-align:right;"> 0.18 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 15.56 </td>
+   <td style="text-align:left;"> Minimal </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> Morocco </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 58.40 </td>
+   <td style="text-align:right;"> 0.75 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 83.83 </td>
+   <td style="text-align:left;"> Full </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> Egypt </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 48.06 </td>
+   <td style="text-align:right;"> 0.18 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 71.42 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> DR Congo </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 35.47 </td>
+   <td style="text-align:right;"> 0.20 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 29.52 </td>
+   <td style="text-align:left;"> Minimal </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> Zambia </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 58.57 </td>
+   <td style="text-align:right;"> 0.64 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 40.80 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> Gabon </td>
+   <td style="text-align:left;"> Yes </td>
+   <td style="text-align:right;"> 51.33 </td>
+   <td style="text-align:right;"> 0.30 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 63.65 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> Mauritania </td>
+   <td style="text-align:left;"> No </td>
+   <td style="text-align:right;"> 44.20 </td>
+   <td style="text-align:right;"> 0.58 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 56.43 </td>
+   <td style="text-align:left;"> Partial </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Mean </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.82 </td>
+   <td style="text-align:right;"> 0.52 </td>
+   <td style="text-align:right;"> 0.44 </td>
+   <td style="text-align:right;"> 52.87 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:left;"> Pop. Median </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:right;"> 50.35 </td>
+   <td style="text-align:right;"> 0.58 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 57.10 </td>
+   <td style="text-align:left;"> NA </td>
+  </tr>
+</tbody>
+</table>
 
 Cameroon as the top contributor to MINUSCA is a reliable partner for regional security cooperation, working with neighboring states to contain instability in CAR, counter Boko Haram in the Lake Chad Basin, and coordinating counter-piracy efforts in the Gulf of Guinea. In addition to MINUSCA, Cameroon also provides modest police contributions to UN peacekeeping missions in Mali (MINUSMA), DRC (MONUSCO), and Darfur (UNAMID). The foreign policy apparatus is highly centralized within the Biya regime, which has dominated Cameroonian politics since 1982. As a result, Cameroon ranks in the middle quartile on the polity measure as a hybrid regime. In recent years, the Cameroonian Armed Forces have benefitted from significant levels of military aid from western partners including the U.S. and France. Yet, its overall level of militarization is low relative to civil society – providing support for the model. Cameroon actively supports AU peace and security efforts by providing a regional training institution for police units and hosts an AU continental logistics hub. Centrally located at the crossroads of the Great Lakes region, Lake Chad Basin, and the Gulf of Guinea, Cameroon’s ability to contain instability while improving its trade infrastructure is key to sustainable economic development. 
 
