@@ -31,147 +31,7 @@ The G5 Sahel task force may complement the political process in Mali but cannot 
 
 ## UN MINUSMA Model Assessment
 
-table>
- <thead>
-  <tr>
-   <th style="text-align:right;"> Rank </th>
-   <th style="text-align:left;"> TCC/PCC </th>
-   <th style="text-align:left;"> REC - ECCAS </th>
-   <th style="text-align:right;"> Governance </th>
-   <th style="text-align:right;"> Political Accountability </th>
-   <th style="text-align:right;"> Regional Leadership </th>
-   <th style="text-align:right;"> Trade Across Borders </th>
-   <th style="text-align:left;"> Model Support? </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> Cameroon </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 46.80 </td>
-   <td style="text-align:right;"> 0.29 </td>
-   <td style="text-align:right;"> 1.00 </td>
-   <td style="text-align:right;"> 47.74 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 2 </td>
-   <td style="text-align:left;"> Rwanda </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 63.07 </td>
-   <td style="text-align:right;"> 0.37 </td>
-   <td style="text-align:right;"> 1.00 </td>
-   <td style="text-align:right;"> 48.26 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 3 </td>
-   <td style="text-align:left;"> Burundi </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 42.10 </td>
-   <td style="text-align:right;"> -0.21 </td>
-   <td style="text-align:right;"> 3.00 </td>
-   <td style="text-align:right;"> 39.35 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 4 </td>
-   <td style="text-align:left;"> Congo </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 43.30 </td>
-   <td style="text-align:right;"> 0.18 </td>
-   <td style="text-align:right;"> 1.00 </td>
-   <td style="text-align:right;"> 15.56 </td>
-   <td style="text-align:left;"> Minimal </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 5 </td>
-   <td style="text-align:left;"> Morocco </td>
-   <td style="text-align:left;"> No </td>
-   <td style="text-align:right;"> 58.40 </td>
-   <td style="text-align:right;"> 0.75 </td>
-   <td style="text-align:right;"> 0.00 </td>
-   <td style="text-align:right;"> 83.83 </td>
-   <td style="text-align:left;"> Full </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 6 </td>
-   <td style="text-align:left;"> Egypt </td>
-   <td style="text-align:left;"> No </td>
-   <td style="text-align:right;"> 48.06 </td>
-   <td style="text-align:right;"> 0.18 </td>
-   <td style="text-align:right;"> 2.00 </td>
-   <td style="text-align:right;"> 71.42 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:left;"> DR Congo </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 35.47 </td>
-   <td style="text-align:right;"> 0.20 </td>
-   <td style="text-align:right;"> 0.00 </td>
-   <td style="text-align:right;"> 29.52 </td>
-   <td style="text-align:left;"> Minimal </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 8 </td>
-   <td style="text-align:left;"> Zambia </td>
-   <td style="text-align:left;"> No </td>
-   <td style="text-align:right;"> 58.57 </td>
-   <td style="text-align:right;"> 0.64 </td>
-   <td style="text-align:right;"> 0.00 </td>
-   <td style="text-align:right;"> 40.80 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:left;"> Gabon </td>
-   <td style="text-align:left;"> Yes </td>
-   <td style="text-align:right;"> 51.33 </td>
-   <td style="text-align:right;"> 0.30 </td>
-   <td style="text-align:right;"> 0.00 </td>
-   <td style="text-align:right;"> 63.65 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 10 </td>
-   <td style="text-align:left;"> Mauritania </td>
-   <td style="text-align:left;"> No </td>
-   <td style="text-align:right;"> 44.20 </td>
-   <td style="text-align:right;"> 0.58 </td>
-   <td style="text-align:right;"> 2.00 </td>
-   <td style="text-align:right;"> 56.43 </td>
-   <td style="text-align:left;"> Partial </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:left;"> Pop. Mean </td>
-   <td style="text-align:left;"> NA </td>
-   <td style="text-align:right;"> 50.82 </td>
-   <td style="text-align:right;"> 0.52 </td>
-   <td style="text-align:right;"> 0.44 </td>
-   <td style="text-align:right;"> 52.87 </td>
-   <td style="text-align:left;"> NA </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:left;"> Pop. Median </td>
-   <td style="text-align:left;"> NA </td>
-   <td style="text-align:right;"> 50.35 </td>
-   <td style="text-align:right;"> 0.58 </td>
-   <td style="text-align:right;"> 0.00 </td>
-   <td style="text-align:right;"> 57.10 </td>
-   <td style="text-align:left;"> NA </td>
-  </tr>
-</tbody>
-</table>
->   kable(minusma_formatted, format = 'html',
-+         digits = 2,
-+         escape = T,
-+         )
-<table>
+<table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:right;"> Rank </th>
@@ -306,6 +166,11 @@ table>
    <td style="text-align:left;"> NA </td>
   </tr>
 </tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: </span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Individual state scores are averaged across the time period from 2013-2016.</td></tr>
+</tfoot>
 </table>
 
 Five of the top ten MINUSMA contributors fully support the model’s predictions with upper quantile scores on good governance, political accountability, regional leadership, and trade integration. Three states including Burkina Faso, Niger, and Rwanda are assessed as providing partial support. This is largely the result of low trade integration scores in comparison to the population average across all African states. However, a closer inspection reveals a gradual improvement on trade within those states over the past decade. Chad stands as an outlier from other top contributors due to its low scores on governance, political accountability, and trade.  
