@@ -31,7 +31,7 @@ The implementation of the Nairobi Declaration works towards that objective. With
 <table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:right;"> Rank </th>
+   <th style="text-align:right;"> Rank by TCC #</th>
    <th style="text-align:left;"> TCC/PCC </th>
    <th style="text-align:left;"> REC - SADC </th>
    <th style="text-align:right;"> Governance </th>
