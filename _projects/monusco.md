@@ -164,9 +164,7 @@ The implementation of the Nairobi Declaration works towards that objective. With
   </tr>
 </tbody>
 <tfoot>
-<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: </span></td></tr>
-<tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup></sup> Individual state scores are averaged across the time period from 2010-2016.</td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Note: Individual state scores are averaged across the time period from 2010-2016.</span></td></tr>
 </tfoot>
 </table>
 
