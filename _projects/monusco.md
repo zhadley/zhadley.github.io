@@ -29,7 +29,6 @@ The implementation of the Nairobi Declaration works towards that objective. With
 ## UN-MONUSCO Model Assessment
 
 <table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
-<caption>MONUSCO Model Assessment (2010-2016)</caption>
  <thead>
   <tr>
    <th style="text-align:right;"> Rank </th>
