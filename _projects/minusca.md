@@ -152,24 +152,24 @@ This provides a marked difference from MONUSCO, which largely relies on outside 
    <td style="text-align:left;"> Partial </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;">  </td>
    <td style="text-align:left;"> Pop. Mean </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> </td>
    <td style="text-align:right;"> 50.82 </td>
    <td style="text-align:right;"> 0.52 </td>
    <td style="text-align:right;"> 0.44 </td>
    <td style="text-align:right;"> 52.87 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;">  </td>
    <td style="text-align:left;"> Pop. Median </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:right;"> 50.35 </td>
    <td style="text-align:right;"> 0.58 </td>
    <td style="text-align:right;"> 0.00 </td>
    <td style="text-align:right;"> 57.10 </td>
-   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;">  </td>
   </tr>
 </tbody>
 </table>
