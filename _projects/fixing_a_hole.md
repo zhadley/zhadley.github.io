@@ -40,7 +40,7 @@ The introductory cases explore "ungoverned spaces" within the Central African Re
 
 The concept of ungoverned spaces provides a thread traceable throughout subsequent chapters.  State fragility is a source from which "neighborhood effects" flow.  Yet, a survey of relevant literature reveals a lack of consensus on the definition --- making measurement problematic. Political violence and a lack of basic services are two common features of fragile states.  In the absence of stable institutions, ungoverned spaces become sanctuaries for transnational threats. Development, security and stability are essential to asserting state authority. The work appears to overemphasize corruption as the key impediment to political stability.
 
-Mali provides as a corollary example. Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. Between 1999 and 2013, Mali received an estimated $1.8 billion dollars in U.S. aid alone. Yet, in 2012, Mali experienced a successful Taureg rebellion and a military coup in the capital of Bamako. Compare Mali's corruption score to its regional neighbors. 
+Mali provides as a corollary example. Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. Between 1999 and 2013, Mali received an estimated $1.8 billion dollars in U.S. aid alone. Yet, in 2012, Mali experienced a successful Taureg rebellion in northern Azawad and a military coup in the capital of Bamako. Compare Mali's corruption score to its regional neighbors. 
 
 [Graphic Placeholder]
 Note: 
