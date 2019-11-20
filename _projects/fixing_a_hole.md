@@ -34,11 +34,11 @@ Recognizing that a degree of simplification is always necessary, any research pr
 
 ## The Case Studies
 
-The introductory cases explore "ungoverned spaces" within the Central African Republic (CAR) and Mali as primary drivers of insecurity. Defined as 
+The introductory cases explore "ungoverned spaces" within the Central African Republic and Mali as primary drivers of insecurity. Defined as 
 
 > "…the absence of central government control over a region and its people and challenges to the state’s authority by one or more groups" (Location 687).
 
-The concept of ungoverned spaces provides a thread traceable throughout subsequent chapters.  State fragility is a source from which "neighborhood effects" flow.  Yet, a survey of relevant literature reveals a lack of consensus on the definition --- making measurement problematic. Political violence and a lack of basic services are two common features of fragile states.  In the absence of credible institutions, ungoverned spaces become sanctuaries for transnational threats. Political legitimacy, border security and good governance are essential to assert state authority. Yet, the work frames instability in CAR and Mali in terms of rampant political corruption. 
+The concept of ungoverned spaces provides a thread traceable throughout subsequent chapters.  State fragility is a source from which "neighborhood effects" flow.  Yet, a survey of relevant literature reveals a lack of consensus on the definition --- making measurement problematic. Political violence and a lack of basic services are two common features of fragile states.  In the absence of credible institutions, ungoverned spaces become sanctuaries for transnational threats. Political legitimacy, border security and good governance are essential to assert state authority. Yet, the case studies frame instability in terms of political corruption. 
 
 Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. During the early aughts, Mali received an estimated $1.8 billion dollars in U.S. foreign aid alone. In 2012, Mali experienced a renewed Taureg rebellion in northern Azawad and a military coup in the capital of Bamako. By 2013, a growing insurgency fueled by elements of Al-Qaeda in Maghreb (AQIM) and Ansar Dine effectively controlled its northern regions. Compare Mali's corruption score to its regional neighbors. 
 
