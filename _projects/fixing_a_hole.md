@@ -42,7 +42,7 @@ The concept of ungoverned spaces provides a thread traceable throughout subseque
 
 Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. During the early aughts, Mali received an estimated $1.8 billion dollars in U.S. foreign aid alone. In 2012, Mali experienced a renewed Taureg rebellion in northern Azawad and a military coup in the capital of Bamako. By 2013, a growing insurgency fueled by elements of Al-Qaeda in Maghreb (AQIM) and Ansar Dine effectively controlled its remote northern regions. Compare Mali's corruption score to its regional neighbors. 
 
-![](images/cpi_plot.png)
+![](/images/cpi_plot.png)
 
 Note: 
 1. Mali's average score on Transparency International's Corruption Perception Index (CPI) fairs marginally better (mean score = 2.97) than the Economic Community of West Africa States (mean score = 2.86) between 2005 and 2010. 
