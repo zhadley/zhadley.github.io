@@ -47,7 +47,7 @@ Mali was heralded a democratic success story following the overthrow of the Trao
 Note: 
 1. Mali's average score on Transparency International's Corruption Perception Index (CPI) fairs marginally better (mean score = 2.97) than the Economic Community of West Africa States (mean score = 2.86) between 2005 and 2010. 
 2. Score scale of 0.0 (highly corrupt) to 10.0 (very clean).
-3. Source: Transparency International, Corruption Perceptions Index 2005-2010. Retrieved from: https://www.transparency.org/research/cpi/overview
+3. Source: Transparency International, Corruption Perceptions Index 2005-2010. Data retrieved from: https://www.transparency.org/research/cpi/overview
 
 Clearly, corruption alone cannot account for the dramatic reversal in Mali's fortunes. Equally plausible, a vicious circle of poor governance, moribund economies, and under-resourced security forces were key factors in undermining regional security. The focus on corruption belies the multiple challenges facing Mali and the Central African Republic. Although corruption can undermine public trust in domestic institutions and foment the loss of national unity, context is required. The picture thus provided remains incomplete. 
 
