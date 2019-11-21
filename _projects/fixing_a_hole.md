@@ -14,7 +14,7 @@ AGS Paris
 
 Working Paper
 
-In the twenty-first century, complex and dynamic challenges within Africa are borderless. With the ability to scale exponentially, localized conflicts can quickly destabilize regions. Since the early aughts, scholarly efforts to explicate transnational challenges has led to a growing body of literature dedicated to the African continent. While promising, the corpora of secondary literature often lack conceptual rigor and depth --- requiring students, researchers and policy-makers to thread coherent narratives across diverse sets of government records, media reports, and written accounts. 
+In the twenty-first century, complex and dynamic challenges within Africa are borderless. With the ability to scale exponentially, localized conflicts can quickly destabilize regions. Since the early aughts, scholarly efforts to explicate transnational challenges has led to a growing body of literature dedicated to the African continent. While promising, the corpora of secondary literatures often lack conceptual rigor and depth --- requiring students, researchers and policy-makers to thread coherent narratives across diverse sets of government records, media reports, and written accounts. 
 
 _Contemporary Security Issues in Africa_ by William A. Taylor attempts to fill this void by serving as a primer for students, scholars, policy-makers, and general readers on Sub-Saharan Africa. Spanning three decades across sixteen case studies, the work aims to 
 
