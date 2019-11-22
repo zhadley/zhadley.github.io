@@ -69,15 +69,15 @@ Turning to food insecurity, case studies on Ethiopia and Malawi explore linkages
 
 Figure 2 highlights the relationship between food insecurity and extreme poverty on conflict. [Explicate the results]. 
 
-The interconnectedness of socio-economic factors makes it difficult to parse out the relative impact of each factor on conflict. Are these challenges specific to the case studies or contingent given a set of necessary and sufficient conditions? More substantively, how should policy-makers allocate limited resources to address strategic priorities facing the African continent?
+The colinearity of socio-economic factors makes it difficult to parse out the relative impact of each factor on insecurity. Are these challenges specific to the case studies or contingent given a set of sufficient conditions? More substantively, how should policy-makers allocate limited resources to address strategic priorities facing the African continent? 
 
 ## Implications for International Security
 
-The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. strategic interests grew in earnest upon the creation of U.S. Africa Command in 2007. The work portrays U.S. engagement as primarily security-focused as opposed to China’s economic interests. 
+The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. strategic interests grew in earnest upon the creation of U.S. Africa Command in 2007.  
 
 > "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820). 
 
-However, portrayal of U.S. national interests in terms of its military engagements provides an incomplete picture. A more nuanced approach would show that other forms of U.S. foreign aid significantly dwarf its military aid. Moreover, aid levels to Africa have remained relatively unchanged since 1999. U.S. foreign military aid accounts for just 5.6 billion dollars during the past decade.
+However, framing U.S. strategic interests in terms of security cooperation provides an incomplete picture. For example, the United States foreign assistance programs continue to significantly overshadow its military aid. Interagency has provided robust support to development within Africa with programs at the U.S. Department of State, U.S. Department of Agriculture and United States Agency for Interational Development. 
 
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
@@ -87,11 +87,11 @@ The work acknowledges critics who argue that U.S. Africa Command has militarized
 
 > China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948). 
 
-However, growth is not linear --- but has varied according to changing conditions in Africa and China during the past three decades. Seeking to address a growing trade deficit, China balances its resource extraction with export of surplus labor and commodities. Business first and politics _later_ still holds mostly true for Chinese engagement with Africa. It remains unclear if its strategic goal to upend the existing international order will find broad African support. Chinese financial and economic linkages will force compromises on its preference for ideological neutrality within Africa, where it is business first and politics always. 
+However, economic cooperation  has varied according to changing conditions in Africa and China during the past three decades. Seeking to address a growing trade deficit, China balances its resource extraction with export of surplus labor and commodities. Business first and politics _later_ still holds mostly true for Chinese engagement with Africa. It remains unclear if its strategic goal to upend the existing international order will find broad African support. Chinese financial and economic linkages will force compromises on its preference for ideological neutrality within Africa, where it is business first and politics always. 
 
 The de-emphasis of African state actors in bi-lateral engagements portrays African states as passive in nature --- at worst, exploited (Location 3152).  African leaders clearly understand the risks and rewards of engagement in a new Great Power competition. As observed during the Cold War, African states will seek to maximize their benefits while hedging against losses. Shocks to the international order will reverberate across African capitals. 
 
-Notably absent from the preceding canvas is a discussion of the roles of the regional economic communities, the African Union, and United Nations. In 2016, the African Union published it African Peace and Security Architecture Roadmap. It was the first attempt by the AU to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in Agenda 2063 and Silence the Guns 2020. Likewise, regional efforts to address insecurity have led to recent deployments in Mali (AFISMA), Central African Republic (MICOPAX), and Somalia (AMISOM). The United Nations currently maintains peacekeepers in seven missions across the continent. 
+Notably absent from the preceding canvas is a discussion of the roles of the regional economic communities, the African Union, and United Nations. In 2016, the African Union published it African Peace and Security Architecture Roadmap. It was the first attempt by the AU to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in Agenda 2063 and Silence the Guns 2020. Likewise, regional efforts to address insecurity have led to recent deployments in Mali (AFISMA), the Central African Republic (MICOPAX), and Somalia (AMISOM). The United Nations currently maintains peacekeepers in seven missions across the continent. 
 
 ## Fixing a Hole: Final Thoughts
 
