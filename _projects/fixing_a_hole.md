@@ -8,7 +8,7 @@ featured_image: '/images/nsa_tank.jpg'
 ![](/images/nsa_tank.jpg)
 
 
-Zachary Hadley, PhD Candidate 
+Zachary Hadley, PhD Candidate[^1]
 
 AGS Paris 
 
@@ -24,7 +24,7 @@ The author contends that this is necessary to parse out the roots of the contine
 
 Within a framework of eight broad categories, the case studies explore state fragility, ethno-religious conflict, food insecurity, violent extremism, maritime piracy and extreme poverty as the primary drivers of regional insecurity. Methodologically, the research design is constrained by the lack of a structured case comparison. As a result, the work does not clearly advance a central thesis. A disciplined case selection would anchor evidence to the implicit assumption that addressing Africa’s transnational threats are crucial to international security. 
 
-Absent a conceptual model, readers must infer regional implications from myriad facts, figures and timelines. We must assume that the evidence presented is most relevant to the cases at hand. Unfortunately, the results do not support a generalizable set of necessary conditions valid across contingent cases. Emerging transnational threats require new modes of thinking --- focused on the ability of the African Union, regional economic communities and member states to circumvent pitfalls on the path to cooperation. 
+Absent a conceptual model, readers must infer regional implications from myriad facts, figures and timelines. We must assume that the evidence presented is most relevant to the cases at hand. Unfortunately, the results do not support a generalizable set of necessary conditions valid across contingent cases. Emerging transnational threats require new modes of thinking --- focused on the ability of the African Union, regional economic communities and member states to circumvent pitfalls on the path to cooperation[^2]. 
 
 ## Categorical Imperatives: Defining Transnational Security
 
@@ -38,7 +38,7 @@ The introductory cases explore "ungoverned spaces" within the Central African Re
 
 > "…the absence of central government control over a region and its people and challenges to the state’s authority by one or more groups" (Location 687).
 
-The concept of ungoverned spaces provides a thread traceable throughout subsequent chapters.  State fragility is a source from which "neighborhood effects" flow.  Yet, a survey of relevant literature reveals a lack of consensus on the definition --- making measurement problematic. Political violence and a lack of basic services are two common features of fragile states.  In the absence of credible institutions, ungoverned spaces become sanctuaries for transnational threats. Political legitimacy, border security and good governance are essential pillars to assert state authority. Yet, the first case studies frame instability in terms of political corruption only. 
+The concept of ungoverned spaces provides a thread traceable throughout subsequent chapters.  State fragility is a source from which "neighborhood effects" flow.  Yet, a survey of relevant literature reveals a lack of consensus on the definition --- making measurement problematic. Political violence and a lack of basic services are two common features of fragile states.[^3] In the absence of credible institutions, ungoverned spaces become sanctuaries for transnational threats. Economic development, credible security and political stability are essential to asserting state authority.[^4] Yet, the first case studies frame instability in terms of political corruption only. 
 
 Mali was heralded a democratic success story following the overthrow of the Traoré regime in 1991. It would become the recipient of significant amounts of foreign aid and investment. During the early aughts, Mali received an estimated $1.8 billion dollars in U.S. foreign aid alone. In 2012, Mali experienced a renewed Tuareg rebellion in northern Azawad and a military coup in the capital of Bamako. By 2013, a growing insurgency fueled by elements of Al-Qaeda in Maghreb (AQIM) and Ansar Dine effectively controlled its remote northern regions. Compare Mali and the Central African Republic's corruption score to their regional neighbors. 
 
@@ -52,13 +52,13 @@ The United States must encourage good governance and accountability while streng
 
 ## Socio-Economic Challenges in Sub-Saharan Africa
 
-A case study on the Lord’s Resistance Army highlights the ethno-religious dimension to security. What began as a Ugandan rebel group in the 1990s, soon metastasized into a violent extremist organization responsible for widespread human rights violations throughout the Great Lakes region. Curiously, however, the case studies do not anchor ethno-religious conflict to the early discussion of corruption and state fragility. Examples abound where political leaders have exploited the patchwork of ethnic and religious tensions for ballot-box advantages with predictably violent outcomes. The complex interplay of such forces within the region provides fertile ground for insecurity.
+A case study on the Lord’s Resistance Army highlights the ethno-religious dimension to security. What began as a Ugandan rebel group in the 1990s, soon metastasized into a violent extremist organization responsible for widespread human rights violations throughout the Great Lakes region.[^5] Curiously, however, the case studies do not anchor ethno-religious conflict to the early discussion of corruption and state fragility. Examples abound where political leaders have exploited the patchwork of ethnic and religious tensions for ballot-box advantages with predictably violent outcomes. The complex interplay of such forces within the region provides fertile ground for insecurity.
 
 The work turns towards a discussion of the “resource curse” theory, which argues that developing states with significant natural resources are often plagued by instability and corruption. In particular, the work highlights predatory lending and resource extraction in Angola. As foreign direct investment lags, China’s willingness to provide loans and investment has proven difficult for many African states to resist. However, the growing perception that such deals represent significant debt traps for African states may present an opportunity for investment alternatives. The United States can display the flag without the uniform.
 
-Piracy in the Horn of Africa has led to increased maritime cooperation between the African Union, regional economic communities, and international partners. It provides an example of successful regional collaboration and cooperation where the economic interests of member-states intersect. China's strategic interests in the eastern region led to the deployment of its naval forces and establishment of a naval base in Djibouti in 2017. 
+Piracy in the Horn of Africa has led to increased maritime cooperation between the African Union, regional economic communities, and international partners. It provides an example of successful regional collaboration and cooperation where the economic interests of member-states intersect. China's strategic interests in the Gulf of Aden led to the establishment of its first naval base in Djibouti in 2017. As an entry point to East Africa, the base supports China's power projection and soft power diplomacy goals.[^6] 
 
-Case studies on Ethiopia and Malawi explore linkages between food insecurity, poverty and conflict. Malawi faces many of the same challenges as Ethiopia. Its population growth rate is double that of its food production, requiring significant amounts of food importation. Its urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.  Although Malawi has experienced gradual economic growth since the early aughts, all citizens do not equally share in the benefits. 
+Case studies on Ethiopia and Malawi explore linkages between food insecurity, poverty and conflict. Malawi faces many of the same challenges as Ethiopia. Its population growth rate is double that of its food production, requiring significant amounts of food importation. Malawi's urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.[^7] Although Malawi has experienced gradual economic growth since the early aughts, all citizens do not equally share in the benefits. 
 
 [Fig. 2 Food Insecurity vs. Extreme Poverty vs. Conflict]
 
@@ -95,3 +95,18 @@ The work offers a broad overview on current African security challenges. Yet, in
 The work correctly identifies many factors of Africa’s endemic instability. However, the tacit assumption that the symptoms are causal leaves the substratum of political, socio-economic, and institutional exclusions intact. The reality is more complicated. A transnational security model that assesses facts through economic, political, security, institutional, and normative rationales can untangle such complexities.  
 
 U.S foreign policy requires a holistic whole-of-government approach focused on peace, governance, and security. Where there are challenges, there are opportunities. Regional and business-sector partnerships that leverage comparative advantages limit duplication of efforts. Targeted funding and foreign aid will support the implementation of the African Union's strategic security objectives. Organizational improvements focused on policy harmonization and subsidiarity at the state, regional and institutional levels provide purpose and direction. “African solutions to African problems” are achievable, if at present, aspirational.  
+
+[^1]: Zachary D. Hadley, ALM, Harvard University. Email: zhadley@alumni.harvard.edu; Website: http://scholar.harvard.edu/hadley; Replication data: https://dataverse.harvard.edu/FixingAHole.
+
+[^2]: Hadley, Z. (2018). African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016. Harvard University, Cambridge.
+
+[^3]: Besley, T. & Persson, T. (2011), 'Fragile States and Development Policy', Journal of the European Economic Association, 9 (3), 371-98
+
+[^4]: Elhawary, S., Foresti, M., & Pantuliano, S. (2010), “Development, Security and Transitions in Fragile States,” Meeting Series Report. Overseas Development Institute. 
+
+[^5]: Dunn K., (2004). "Uganda: The Lord's Resistance Army." _Review of African Political Economy_. Vol. 31, No. 99, pp. 139-142. State support, socio-economic factors, and political dimensions have contributed much to the durability of the Lord's Resistance Army since 1987. 
+
+[^6]: Institute for Global Dialogue, (2017). "China-Africa: High Time for a common integrated African policy on China." Proceedings report of a symposium held by the Institute for Global Dialogue (IGD). 
+
+[^7]: Mussa R., & Masanjala W. (2015) "A Dangerous Divide: The State of Inequality in Malawi." Oxfam International. In particular, limited access to education, health services, and gender-sensitive policy has led to significant inequality within Malawi 
+
