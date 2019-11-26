@@ -68,25 +68,24 @@ The colinearity of socio-economic factors makes it difficult to parse out the re
 
 ## Implications for International Security
 
-The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. strategic interests grew in earnest upon the creation of U.S. Africa Command in 2007.  
+The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. interests grew in earnest upon the creation of U.S. Africa Command in 2007. 
 
 > "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820). 
 
-However, framing U.S. strategic interests in terms of security cooperation provides an incomplete picture. For example, the United States foreign assistance programs continue to significantly overshadow its military aid. Interagency has provided robust support to development within Africa with programs at the U.S. Department of State, U.S. Department of Agriculture and United States Agency for Interational Development. 
+In some circles, it is argued that the establishment of U.S. Africa Command reflects the _militarization_ of U.S. foreign policy towards Africa. Although security cooperation and foreign military sales have increased during the past two decades, it is unclear there is a correlation with U.S. foreign policy. Furthermore, it is argued that "phase zero" operations risk duplicating the roles and responsibilities of the U.S. interagency, non-governmental organizations and partner nations. However, antecdotal examples do not provide robust evidence of a growing trend. Figure 3 shows the relative levels of U.S. foreign assistance to Africa since 1999.  
 
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
-
-The work acknowledges critics who argue that U.S. Africa Command has militarized U.S. foreign policy in Africa. In particular, "phase zero" operations risk duplicating the roles and responsibilities of the U.S. interagency, non-governmental organizations and donor nations. However, the work does not provide evidence to support this contention. As a counterpoint, it highlights Chinese involvement in terms of its economic interests. 
-
+It becomes clear that the foreign development assitance vastly outscales military aid during the same period of 1999-2019. The work uses U.S. Africa Command to juxtpose U.S. strategic concerns against the primarily economic concerns of China. 
+ 
 > China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948). 
 
-However, economic cooperation  has varied according to changing conditions in Africa and China during the past three decades. Seeking to address a growing trade deficit, China balances its resource extraction with export of surplus labor and commodities. Business first and politics _later_ still holds mostly true for Chinese engagement with Africa. It remains unclear if its strategic goal to upend the existing international order will find broad African support. Chinese financial and economic linkages will force compromises on its preference for ideological neutrality within Africa, where it is business first and politics always. 
+However, economic cooperation has varied according to changing conditions in Africa and China during the past three decades. Seeking to address a growing trade deficit, China balances its resource extraction with export of surplus labor and commodities. Business first and politics _later_ still holds true for Chinese engagement with Africa. It remains unclear if its strategic goal to upend the existing international order will find broad African support. Chinese financial and economic linkages will force compromises on its preference for ideological neutrality. 
 
-The de-emphasis of African state actors in bi-lateral engagements portrays African states as passive in nature --- at worst, exploited (Location 3152).  African leaders clearly understand the risks and rewards of engagement in a new Great Power competition. As observed during the Cold War, African states will seek to maximize their benefits while hedging against losses. Shocks to the international order will reverberate across African capitals. 
+The de-emphasis of African state actors in bi-lateral engagements portrays African states as passive in nature --- at worst, exploited (Location 3152).  African leaders clearly understand the risks and benefits of engagement with Russia and China.  Shocks to the international order will reverberate across African capitals. 
 
-Notably absent from the preceding canvas is a discussion of the roles of the regional economic communities, the African Union, and United Nations. In 2016, the African Union published it African Peace and Security Architecture Roadmap. It was the first attempt by the AU to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in Agenda 2063 and Silence the Guns 2020. Likewise, regional efforts to address insecurity have led to recent deployments in Mali (AFISMA), the Central African Republic (MICOPAX), and Somalia (AMISOM). The United Nations currently maintains peacekeepers in seven missions across the continent. 
+Notably absent from the preceding canvas is a discussion of the roles of the regional economic communities, the African Union, and United Nations. In 2016, the African Union published it African Peace and Security Architecture Roadmap. It was the first attempt by the AU to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in _Agenda 2063_ and _Silence the Guns 2020_. Likewise, regional efforts to address insecurity have led to recent deployments in Mali (AFISMA), the Central African Republic (MICOPAX), and Somalia (AMISOM). The United Nations currently maintains peacekeepers in seven missions across the continent. 
 
 ## Fixing a Hole: Final Thoughts
 
