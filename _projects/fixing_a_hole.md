@@ -68,16 +68,15 @@ The colinearity of socio-economic factors makes it difficult to parse out the re
 
 ## Implications for International Security
 
-The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. interests grew in earnest upon the creation of U.S. Africa Command in 2007. 
+The final chapters highlight geopolitical implications for Africa in terms of the emerging multipolar system. The work contends that U.S. interests grew in earnest upon the creation of U.S. Africa Command in 2007. In effect, this has led to a militarization of U.S. foreign policy with respect to Africa. 
 
 > "The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820). 
 
-In some circles, it is argued that the establishment of U.S. Africa Command reflects the _militarization_ of U.S. foreign policy towards Africa. Although security cooperation and foreign military sales have increased during the past two decades, it is unclear there is a correlation with U.S. foreign policy. Furthermore, it is argued that "phase zero" operations risk duplicating the roles and responsibilities of the U.S. interagency, non-governmental organizations and partner nations. However, antecdotal examples do not provide robust evidence of a growing trend. Figure 3 shows the relative levels of U.S. foreign assistance to Africa since 1999.  
-
+Although U.S. security cooperation has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Antecdotes do not provide robust evidence of a growing trend. Traditionally, foreign policy derives its power from a trifecta of tools including soft power (diplomacy), persuasive, and coercive (military) to achieve strategic objectives (Nye, Softpower).  I measure the potential for militarization by assessing conflict-related military deployments, evidence of mission creep where "phase zero" military programs duplicate the roles and responsibilities of the U.S. interagency and thirdly, U.S. foreign military assistance. 
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
-It becomes clear that the foreign development assitance vastly outscales military aid during the same period of 1999-2019. The work uses U.S. Africa Command to juxtpose U.S. strategic concerns against the primarily economic concerns of China. 
+A cursory inspection of U.S. foreign policy suggests that its militarization _vis-a-vis_ U.S. Africa Command is likely specious. It becomes clear that the foreign development assitance vastly outscales military aid during the same period. However, the focus on U.S. security assistance provides a useful juxtpose to China's economic engagement with Africa. 
  
 > China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948). 
 
