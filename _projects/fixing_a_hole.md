@@ -76,7 +76,7 @@ Although U.S. security cooperation has increased during the past two decades, it
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
-A cursory inspection of U.S. foreign policy suggests that its militarization _vis-a-vis_ U.S. Africa Command is likely specious. It becomes clear that the foreign development assitance vastly outscales military aid during the same period. However, the focus on U.S. security assistance provides a useful juxtpose to China's economic engagement with Africa. 
+A cursory inspection of U.S. foreign policy suggests that its militarization _vis-a-vis_ U.S. Africa Command is likely specious.  However, the focus on U.S. security assistance provides a useful juxtpose to China's economic engagement with Africa. 
  
 > China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948). 
 
