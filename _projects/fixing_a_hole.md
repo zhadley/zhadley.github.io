@@ -78,7 +78,7 @@ https://fas.org/sgp/crs/natsec/R45091.pdf
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
-A cursory inspection of U.S. foreign policy suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. However, an in-depth analysis is outside of the scope of this article. Regardless, the focus on U.S. security cooperation provides a useful juxtaposition to China’s economic engagement with Africa.
+A cursory inspection of U.S. foreign policy suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. An in-depth analysis is outside of the scope of this article. Regardless, the focus on U.S. security cooperation provides a useful juxtaposition to China’s economic engagement with Africa.
 
 >China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948).
 
