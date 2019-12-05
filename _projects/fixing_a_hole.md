@@ -72,13 +72,13 @@ The final chapters highlight geopolitical implications for Africa in terms of th
 
 >"The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820).
 
-Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^9] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense security cooperation programs have duplicated State Department security assistance programs. Furthermore, a comparison of funding levels and troop levels can provide needed context. Methodologically, a comparison of both programs is difficult due to authorities and funding transparency at the country-level. Regardless, the numbers can highlight trends. Figure 3 provides a summary of the results. 
+Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^9] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. A comparison of funding and troop levels may provide useful context. However, the methodology employed is only exploratory. Funding authorities and congressional reporting lacks full transparency due to the sensitivity regarding some mission sets. Regardless, the numbers can highlight trends. Figure 3 provides a summary of the results. 
 
 https://fas.org/sgp/crs/natsec/R45091.pdf
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
-A cursory inspection of U.S. foreign policy suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. An in-depth analysis is outside of the scope of this article. Regardless, the focus on U.S. security cooperation provides a useful juxtaposition to China’s economic engagement with Africa.
+A cursory inspection of U.S. foreign policy suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. However, a detailed analysis is outside of the scope of this article. Regardless, the focus on U.S. security cooperation and assistance provides a useful juxtaposition to China’s economic engagement with Africa.
 
 >China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948).
 
