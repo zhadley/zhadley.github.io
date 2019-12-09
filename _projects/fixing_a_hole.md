@@ -16,15 +16,15 @@ Working Paper
 
 In the twenty-first century, complex and dynamic challenges within Africa are often borderless. With the ability to scale exponentially, localized conflicts can quickly destabilize regions. Since the early aughts, scholarly efforts to explicate transnational challenges has led to a growing body of literature dedicated to the African continent. While promising, the corpora of secondary literatures often lack conceptual rigor and depth --- requiring students, researchers and scholars to thread coherent narratives across diverse sets of government records, media reports, and firsthand accounts.
 
-_Contemporary Security Issues in Africa_ by William A. Taylor aims to fill this void by serving as a primer for students, researchers and policy-makers on Sub-Saharan Africa. Spanning three decades across sixteen case studies, the work aims to
+_Contemporary Security Issues in Africa_ by William A. Taylor attempts to fill this void by serving as a primer for students, researchers and policy-makers on Sub-Saharan Africa. Spanning three decades across sixteen case studies, the work aims to
 
 >"Explore the nexus of culture, politics, and security at the national, regional and international level."
 
 The author contends that this is necessary to parse out the roots of the continent’s growing relevance in global affairs. To accomplish this goal --- in a neat two-hundred-and-forty-one page volume --- requires a Herculean effort.
 
-Within a framework of eight broad categories, the case studies explore state fragility, ethno-religious conflict, food insecurity, violent extremism, maritime piracy and extreme poverty as the primary drivers of regional insecurity. Methodologically, the research design is constrained by the lack of a structured case comparison. As a result, the work does not clearly advance a central thesis. A disciplined case selection would anchor evidence to the implicit assumption that addressing Africa’s transnational threats are crucial to international security.
+Within a framework of eight broad categories, the case studies explore state fragility, ethno-religious conflict, food insecurity, violent extremism, maritime piracy and extreme poverty as the primary drivers of regional insecurity. Methodologically, the research design is constrained by the lack of a structured case comparison. As a result, the work does not clearly advance a central thesis. A disciplined case selection might anchor evidence to the assumption that addressing Africa’s transnational threats are crucial to international security.
 
-Absent a conceptual model, readers must infer regional implications from myriad facts, figures and timelines. They must also assume that the evidence presented is most germane to the case studies at hand. Unfortunately, the results do not support a set of necessary and sufficient conditions valid across contingent cases. How do the facts inform solutions to future challenges? Emerging transnational threats require new modes of thinking --- focused on enabling the African Union, regional economic communities and its member states to circumvent pitfalls on the path to cooperation[^2].
+Absent a conceptual model, readers are required to infer regional implications from myriad facts, figures and timelines. They must also assume that the evidence presented is most germane to the case studies at hand. The upshot is that the results do not support a set of necessary and sufficient conditions valid across contingent cases. How do historical facts inform solutions to future challenges? Emerging transnational threats require new models --- focused on enabling the African Union, regional economic communities and its member states to circumvent pitfalls on the path to cooperation[^2].
 
 ## Categorical Imperatives: Defining Transnational Security
 
@@ -88,7 +88,7 @@ Notably absent from the preceding canvas is a discussion of the roles of the Uni
 
 ## Fixing a Hole: Final Thoughts
 
-The work offers a broad overview of Africa’s security challenges without the necessary concepts to assess their implications. This is not without value, but the intended market remains elusive. Scholarly and specialist appetites will likely remain insatiate from its cursory depth. Students may benefit from a one-source of facts, figures and timelines. However, the suggested retail price may be difficult for the casual reader to justify. Regardless, the author’s effort to address a glaring gap in the literature is admirable. 
+The work offers a broad overview of Africa’s security challenges without the necessary concepts to assess their implications. This is not without value, but the intended market remains elusive. Scholarly and specialist appetites will likely remain insatiate from its shallow depth. Students may benefit from a one-source of facts, figures and timelines. However, the suggested retail price may be difficult for the casual reader to justify. Regardless, the author’s effort to address a glaring gap in the literature is admirable. 
 
 The work correctly identifies many of Africa’s regional security challenges. However, the tacit assumption that the symptoms are causal leaves the substratum of political, socio-economic, and institutional variables intact. The reality is more complicated. A transnational security model that provides a conceptual framework to untangle these complexities is required. Future scholarly contributions must take up that effort.  
 
