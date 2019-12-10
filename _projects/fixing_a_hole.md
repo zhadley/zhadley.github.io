@@ -58,13 +58,11 @@ The work turns towards a discussion of the “resource curse” theory, which ar
 
 Piracy in the Horn of Africa has led to increased maritime cooperation between the African Union, regional economic communities, and international partners. It provides an example of successful regional collaboration and cooperation where the economic interests of member-states intersect. China's strategic interests in the Gulf of Aden led to the establishment of its first naval base in Djibouti in 2017. As an entry point to East Africa, the base supports China's power projection and soft power diplomacy goals.[^7]
 
-Case studies on Ethiopia and Malawi explore linkages between food insecurity, poverty and conflict. Malawi faces many of the same challenges as Ethiopia. Its population growth rate is double that of its food production, requiring significant amounts of food importation. Malawi's urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.[^8] Although Malawi has experienced gradual economic growth since the early aughts, all citizens do not equally share in the benefits.
+Case studies on Ethiopia and Malawi explore linkages between food insecurity, poverty and conflict. Malawi faces many of the same challenges as Ethiopia. Its population growth rate is double that of its food production, requiring significant amounts of food aid -- particularly during the dry season. Food insecurity is exacerbated by the continued dominance of subsistence farming and environmental shocks due to climate change.  Malawi's urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.[^8] Although Malawi has experienced gradual economic growth since the early aughts, all citizens do not equally share in the benefits. 
 
-[Fig. 2 Food Insecurity vs. Extreme Poverty vs. Conflict]
+[Model of enviromental, social, political and economic factors]
 
-Figure 2 highlights the relationship between food insecurity and extreme poverty on conflict. [Explicate the results].
-
-The collinearity of socio-economic variables makes it difficult to parse out the relative impact of each transnational threat on regional security. Are these challenges specific to the case studies or contingent given a set of sufficient conditions? More substantively, how should policy-makers allocate limited resources to address strategic priorities facing the African continent?
+Table 1 provides a general framework for explicating the relationship between socio-economic and environmental factors on conflict. Due to the collinearity present in the factors, it is difficult to parse out the relative impact of each on conflict in Ethiopia and Malawi.  Are these challenges specific to the case studies or contingent given a set of sufficient conditions? More substantively, how should African policy-makers allocate limited resources to address strategic security challenges facing the African continent?
 
 ## Implications for International Security
 
