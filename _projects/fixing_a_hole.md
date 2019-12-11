@@ -50,19 +50,17 @@ The absence of discussion on growing Russian involvement in the Central African 
 
 The United States must encourage good governance and accountability while strengthening regional security institutions. Sub-Saharan Africa represents one of the few regions where new opportunities for partnerships and cooperation are still possible. At the same time, the United States must find ways to impose costs on its near-peer competitors while mitigating collateral damage to its African partners. The balancing act will become a defining challenge for the United States during the next global power competition. Relationships still matter.
 
-## Socio-Economic Challenges in Sub-Saharan Africa
-
 A case study on the Lord’s Resistance Army highlights the ethno-religious dimension to security. What began as a Ugandan rebel group in the 1990s, soon metastasized into a violent extremist organization responsible for widespread human rights violations throughout the Great Lakes region.[^6] Curiously, however, the case studies do not anchor ethno-religious conflict to the early discussion of corruption and state fragility. Examples abound where leaders have exploited the patchwork of ethnic and religious demographics for ballot-box advantages with predictably violent outcomes. The complex interplay of such forces within the central region provides fertile ground for insecurity. Can we extrapolate the case study insights to other regions?
 
 The work turns towards a discussion of the “resource curse” theory, which argues that developing states with significant natural resources are often plagued by instability and corruption. In particular, the work highlights predatory lending and resource extraction in Angola. As foreign direct investment lags, China’s willingness to provide loans and investment has proven difficult for many African states to resist. However, the growing perception that such deals represent significant debt traps for African states may present an opportunity for investment alternatives. The United States can display the flag without the uniform.
 
 Piracy in the Horn of Africa has led to increased maritime cooperation between the African Union, regional economic communities, and international partners. It provides an example of successful regional collaboration and cooperation where the economic interests of member-states intersect. China's strategic interests in the Gulf of Aden led to the establishment of its first naval base in Djibouti in 2017. As an entry point to East Africa, the base supports China's power projection and soft power diplomacy goals.[^7]
 
-Case studies on Ethiopia and Malawi explore linkages between food insecurity, poverty and conflict. Malawi faces many of the same challenges as Ethiopia. Its population growth rate is double that of its food production, requiring significant amounts of food aid -- particularly during the dry season. Food insecurity is exacerbated by the continued dominance of subsistence farming and environmental shocks due to climate change.  Malawi's urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.[^8] Although Malawi has experienced gradual economic growth since the early aughts, all citizens do not equally share in the benefits. 
+Case studies on Malawi and Ethiopia explore linkages between food insecurity, poverty and conflict. Defined by food availability, access, stability and utilization, food insecurity affects the lives of nearly 257 million individuals within Africa.[^8] Despite years of improvement, recent declines in annual food production exacerbated by climate change and poverty. In particular, low-income countries are at the greatest risk due to the durability of subsistence farming. Malawi's population growth rate is double that of its food production, requiring significant levels of importation -- particularly during the dry season. Its urban-rural divide further affects economic development due to the lack of infrastructure, basic social services and employment opportunities in many rural communities.[^9]  
 
-[Model of enviromental, social, political and economic factors]
+The bi-directional pathways between food security, poverty and conflict are well-represented in the literature, if poorly tested. Until recently, the lack of empirical evidence has made it difficult to establish causal relationships. For example, we have observed case studies where food insecurity has triggered social unrest in Malawi.[^10] Likewise, conflict has triggered food insecurity in Ethiopia.[^11] Compounded by endemic poverty in each case, a vicious circle emerges where the central government is often unable to effectively respond to the growing humanitarian crisis. 
 
-Table 1 provides a general framework for explicating the relationship between socio-economic and environmental factors on conflict. Due to the collinearity present in the factors, it is difficult to parse out the relative impact of each on conflict in Ethiopia and Malawi.  Are these challenges specific to the case studies or contingent given a set of sufficient conditions? More substantively, how should African policy-makers allocate limited resources to address strategic security challenges facing the African continent?
+The preceding canvas of case studies illustrates the critical need for a theoretical framework to guide the reader. The desire to scope widely limits the ability to dig deeply into the substratum of fundamental linkages across cases. We must ask ourselves if the challenges are specific to the individual case studies or contingent given a set of necessary and sufficient conditions. Yet, the tools for doing so are not provided. More substantively, how should policy-makers prioritize limited resources to address the myriad security challenges facing the African continent?
 
 ## Implications for International Security
 
@@ -70,7 +68,7 @@ The final chapters highlight geopolitical implications for Africa in terms of th
 
 >"The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820).
 
-Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^9] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. foreign aid and assistance to Africa over the past two decades. 
+Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^12] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. foreign aid and assistance to Africa over the past two decades. 
 
 [Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
 
@@ -103,9 +101,15 @@ Where there are challenges, there are opportunities. U.S. foreign policy require
 
 [^6]: Dunn K., (2004). "Uganda: The Lord's Resistance Army." _Review of African Political Economy_. Vol. 31, No. 99, pp. 139-142. State support, socio-economic factors, and political dimensions have contributed much to the durability of the Lord's Resistance Army since 1987. 
 
-[^7]: Institute for Global Dialogue, (2017). "China-Africa: High Time for a common integrated African policy on China." Proceedings report of a symposium held by the Institute for Global Dialogue (IGD). 
+[^7]: Institute for Global Dialogue. (2017). "China-Africa: High Time for a common integrated African policy on China." Proceedings report of a symposium held by the Institute for Global Dialogue (IGD). 
 
-[^8]: Mussa R., & Masanjala W. (2015). "A Dangerous Divide: The State of Inequality in Malawi." Oxfam International. In particular, limited access to education, health services, and gender-sensitive policy has led to significant inequality within Malawi 
+[^8]: Martin-Shields, C. & Stojetz, W. (2018). "Food security and conflict: Empirical challenges and future opportunities for research and policy making on food security and conflict." Food and Agriculture Organization of the United Nations. FAO Agricultural Development Economic Working Paper 18-04.
 
-[^9]: Nye, JS. (2004). _Soft Power: The Means to Success in World Politics_. PublicAffairs; New Ed edition (April 27, 2005).
+[^9]: Mussa R., & Masanjala W. (2015). "A Dangerous Divide: The State of Inequality in Malawi." Oxfam International. 
+
+[^10]: Masina, L. (2018). "Malawi Drought Sparks Mob Violence, Accusations of Witchcraft." Voice of America. 
+
+[^11]: Fitzgerald, C. (2017). "Conflict is now the main cause of famine". The Irish Times. 
+
+[^12]: Nye, JS. (2004). _Soft Power: The Means to Success in World Politics_. PublicAffairs; New Ed edition (April 27, 2005).
 
