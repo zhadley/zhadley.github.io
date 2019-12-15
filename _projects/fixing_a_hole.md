@@ -64,18 +64,18 @@ The final chapters highlight geopolitical implications for Africa in terms of th
 
 >"The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820).
 
-Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. security assistance to Africa since 2005. 
+Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 2 compares U.S. security assistance within Sub-Saharan Africa since 2005. 
 
 ![](/images/mil_aid_plot.png)
 
 
-Although the methodology employed is only exploratory, the numbers can highlight meaningful trends. A cursory inspection of U.S. foreign aid suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. State Department funding for stabilization operations and security sector reform significantly outweighs other forms of U.S. security assistance to include counter-terrorism efforts.  Regardless, the focus on U.S. security assistance provides a clear contrast to China’s economic engagement with Africa.
+Although the methodology employed is only exploratory, the data highlights meaningful trends. A cursory inspection of U.S. foreign aid suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. However, greater context that includes analysis of troop levels, interagency coordination, and funding is warranted.[^12] State Department funding for stabilization operations and security sector reform significantly outweighs other forms of U.S. security assistance to include counter-terrorism efforts.  Regardless, the focus on U.S. security assistance provides a clear contrast to China’s economic engagement with Africa.
 
 >China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948).
 
 Economic cooperation has varied according to changing conditions within China and Africa during the past three decades. Seeking to improve its terms of trade, China balances its needs for raw materials with the export of surplus labor and commodities to African markets. Financial and economic linkages are conditions based -- but not according to international law or norms. Business first and politics later still holds mostly true. Whereas the United States has often conditioned aid on democratic commitments, China leverages its economic power to extract natural resources for trade and investment. 
 
-Since the early aughts, China has become a top peacekeeping contributor to United Nations missions across sub-Saharan Africa. China's strategic interests in the Gulf of Aden led to the establishment of its first naval base in Djibouti in 2017. As an entry point to East Africa, the base supports China's power projection and soft power diplomacy goals.[^12] However, strengthening its military ties may force compromises on its traditional preference for ideological neutrality. China's strategic objective to upend the existing international order will require broad African political support to achieve.
+Since the early aughts, China has become a top peacekeeping contributor to United Nations missions across sub-Saharan Africa. China's strategic interests in the Gulf of Aden led to the establishment of its first naval base in Djibouti in 2017. As an entry point to East Africa, the base supports China's power projection and soft power diplomacy goals.[^13] However, strengthening its military ties may force compromises on its traditional preference for ideological neutrality. China's strategic objective to upend the existing international order will require broad African political support to achieve.
 
 Notably absent from the preceding canvas is a discussion of the roles of the United Nations, the African Union, and the regional economic communities. In 2016, the African Union published the _African Peace and Security Architecture Roadmap_. It was the first attempt by the regional body to define a strategic vision for addressing Africa’s peace and security challenges. It provides measurable objectives to meet its ambitious targets laid out in _Agenda 2063_ and _Silence the Guns 2020_. Likewise, regional efforts to address insecurity have led to recent deployments in Mali, the Central African Republic and Somalia. However, policy harmonization, political will and resource allocation will remain significant impediments to further progress.
 
@@ -110,5 +110,7 @@ Where there are challenges, there are opportunities. U.S. foreign policy require
 
 [^11]: Fitzgerald, C. (2017). "Conflict is now the main cause of famine". The Irish Times. 
 
-[^12]: Nye, JS. (2004). _Soft Power: The Means to Success in World Politics_. PublicAffairs; New Ed edition (April 27, 2005).
+[^12]: Adams, G. & Murray, S. (2014). _Mission Creep: The Militarization of US Foreign Policy?_. Georgetown University Press. Washington DC. 
+
+[^13]: Nye, JS. (2004). _Soft Power: The Means to Success in World Politics_. PublicAffairs; New Ed edition (April 27, 2005).
 
