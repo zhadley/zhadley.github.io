@@ -64,9 +64,10 @@ The final chapters highlight geopolitical implications for Africa in terms of th
 
 >"The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820).
 
-Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. foreign aid and assistance to Africa over the past two decades. 
+Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. security assistance to Africa since 2005. Department of State stabilization funding for United Nations peacekeeping has traditionally outweighed other forms of security assistance. 
 
-[Figure 3. Levels of U.S. Foreign and Military Aid since 1999]
+![](/images/mil_aid_plot.png)
+
 
 Although the methodology employed is only exploratory, the numbers can highlight meaningful trends. A cursory inspection of U.S. foreign aid suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. Of note, the growth in U.S. Department of Army funding has risen dramatically since 2010 while overall levels have remain stable. Regardless, the focus on U.S. security cooperation and assistance provides a clear contrast to China’s economic engagement with Africa.
 
