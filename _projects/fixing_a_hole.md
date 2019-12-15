@@ -64,12 +64,12 @@ The final chapters highlight geopolitical implications for Africa in terms of th
 
 >"The United States has amplified relations with Africa over the past three decades, most visibly with the creation in 2007 of U.S. Africa Command" (Location 2820).
 
-Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. security assistance to Africa since 2005. Department of State stabilization funding for United Nations peacekeeping has traditionally outweighed other forms of security assistance. 
+Although U.S. military presence has increased during the past two decades, it is unclear if this has unbalanced U.S. foreign policy. Traditionally, foreign policy is thought to derive its power from a trifecta of statecraft tools including diplomacy, persuasion, and coercive force.[^11] How can we test the militarization claim? An expedient approach might look for evidence of "mission creep" where Department of Defense programs have duplicated State Department efforts. Figure 3 compares U.S. security assistance to Africa since 2005. 
 
 ![](/images/mil_aid_plot.png)
 
 
-Although the methodology employed is only exploratory, the numbers can highlight meaningful trends. A cursory inspection of U.S. foreign aid suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. Of note, the growth in U.S. Department of Army funding has risen dramatically since 2010 while overall levels have remain stable. Regardless, the focus on U.S. security cooperation and assistance provides a clear contrast to China’s economic engagement with Africa.
+Although the methodology employed is only exploratory, the numbers can highlight meaningful trends. A cursory inspection of U.S. foreign aid suggests that its militarization _vis-à-vis_ U.S. Africa Command is likely specious. State Department funding for stabilization operations and security sector reform significantly outweighs other forms of U.S. security assistance to include counter-terrorism efforts.  Regardless, the focus on U.S. security assistance provides a clear contrast to China’s economic engagement with Africa.
 
 >China-Africa relations are "one of the most critical developments in international affairs" during the past decade (Location 2948).
 
