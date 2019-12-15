@@ -88,7 +88,7 @@ The work correctly identifies many of Africa’s regional security challenges. H
 Where there are challenges, there are opportunities. U.S. foreign policy requires a whole-of-government approach to integrate agency efforts in the promotion of good governance, regional security, and investment. Regional and member state partnerships that leverage comparative advantages limit the duplication of efforts. Targeted economic and security assistance will support the implementation of the African Union's security goals. Interagency efforts that promote policy harmonization and subsidiarity at the member state, regional and institutional levels provide purpose and direction. Bridging the gap between political will and action is key. “African solutions to African problems” are achievable, if at present, aspirational.
 
 
-[^1]: Zachary D. Hadley, ALM, Harvard University. Email: zhadley@alumni.harvard.edu; Website: http://scholar.harvard.edu/hadley; Replication data: https://dataverse.harvard.edu/FixingAHole.
+[^1]: Zachary D. Hadley, PhD Candidate, American Graduate School in Paris. Email: z.hadley@ags.edu; Website: http://scholar.harvard.edu/hadley; Replication data: https://dataverse.harvard.edu/FixingAHole.
 
 [^2]: Hadley, Z. (2018). African Spaghetti Bowl: Assessing State Rationales in African Peacekeeping Operations, 1999-2016. Harvard University, Cambridge.
 
